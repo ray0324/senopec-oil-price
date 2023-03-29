@@ -37,12 +37,12 @@ function setProvince(cookie, provinceId = "44") {
  * @returns {Promise<object>} 返回数据
  */
 async function getPriceData(cookie) {
-    const res = await fetch(`${HOST}/data/initMainData`, {
-        headers: { cookie },
-        method: "GET",
-    });
-    const json = await res.json();
-    return json;
+  const res = await fetch(`${HOST}/data/initMainData`, {
+    headers: { cookie },
+    method: "GET",
+  });
+  const json = await res.json();
+  return json;
 }
 
 /**
@@ -54,6 +54,11 @@ async function saveJson(dist,provinceId, data) {
     // 生成时间
     data.createdAt = new Date().toLocaleString();
     const filepath = path.resolve(dist, `${provinceId}.json`);
+    // ENOENT: no such file or directory, open 
+    // https://stackoverflow.com/questions/21194934/node-how-to-create-a-directory-if-doesnt-exist
+    if (!fs.existsSync(dist)) {
+      fs.mkdirSync(dist);
+    }
     fs.writeFileSync(filepath, JSON.stringify(data, null, 2));
 }
 
