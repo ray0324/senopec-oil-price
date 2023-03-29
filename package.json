@@ -1,0 +1,12 @@
+{
+  "name": "senopec-oil-price",
+  "version": "1.0.0",
+  "bin": {
+    "senopec": "cli.js"
+  },
+  "scripts": {
+    "fetch": "node index.js"
+  },
+  "main": "index.js",
+  "license": "MIT"
+}
