@@ -33,6 +33,7 @@ function setProvince(cookie, provinceId = '44') {
 }
 
 /**
+ * 今日油价
  * @param {string} cookie
  * @returns {Promise<object>} 返回数据
  */
@@ -46,18 +47,32 @@ async function getPriceData(cookie) {
 }
 
 /**
+ * 历史油价
+ * @param {string} cookie
+ * @returns {Promise<object>} 返回数据
+ */
+async function getHistoryPriceData(cookie) {
+  const res = await fetch(`${HOST}/data/initOilPrice`, {
+    headers: { cookie },
+    method: 'GET',
+  });
+  const json = await res.json();
+  return json;
+}
+
+/**
  * 生成jsong文件
  * @param {string} dist 文件存储路径
  * @param {object} data JSON对象
  */
-function saveJson(dist, provinceId, data) {
+function saveJson(filename, data) {
   // 生成时间
   data.createdAt = new Date();
-  const filepath = path.resolve(dist, `${provinceId}.json`);
+  const filepath = path.resolve(DIST, `${filename}.json`);
   // ENOENT: no such file or directory, open
   // https://stackoverflow.com/questions/21194934/node-how-to-create-a-directory-if-doesnt-exist
-  if (!fs.existsSync(dist)) {
-    fs.mkdirSync(dist);
+  if (!fs.existsSync(DIST)) {
+    fs.mkdirSync(DIST);
   }
   fs.writeFileSync(filepath, JSON.stringify(data, null, 2));
 }
@@ -74,12 +89,19 @@ async function run() {
       '▸',
       ` 开始获取[${province.provinceId}-${province.name}]数据`
     );
+
     // 设置省份
     await setProvince(cookie, province.provinceId);
+
     // 获取数据
     const data = await getPriceData(cookie);
     // 保存数据
-    saveJson(DIST, province.provinceId, data);
+    saveJson(province.provinceId, data);
+
+    // 获取历史数据
+    const historyData = await getHistoryPriceData(cookie);
+    // 保存历史数据
+    saveJson(`history-${province.provinceId}`, historyData);
 
     console.log(`\x1b[32m%s\x1b[0m%s`, '✔', ` 获取${province.name}数据完成`);
   }
