@@ -19,7 +19,7 @@
       "E92": "N",
       "E95": "N",
       "GAS_89": "N",
-      "ISSHOWOTHER": "N",
+      "ISSHOWOTHER": "Y",
       "E98": "N",
       "CHAI_20": "N",
       "PROVINCE_NAME": "云南",
@@ -1319,5 +1319,5 @@
   },
   "toDay": "2023年03月31日",
   "provinceId": "53",
-  "createdAt": "2023-03-31T10:16:58.498Z"
+  "createdAt": "2023-03-31T12:34:21.438Z"
 }

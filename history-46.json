@@ -19,7 +19,7 @@
       "E92": "N",
       "E95": "N",
       "GAS_89": "N",
-      "ISSHOWOTHER": "N",
+      "ISSHOWOTHER": "Y",
       "E98": "N",
       "CHAI_20": "N",
       "PROVINCE_NAME": "海南",
@@ -1335,5 +1335,5 @@
   },
   "toDay": "2023年03月31日",
   "provinceId": "46",
-  "createdAt": "2023-03-31T10:17:00.478Z"
+  "createdAt": "2023-03-31T12:34:23.211Z"
 }
