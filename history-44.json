@@ -13,12 +13,13 @@
       "AREADESC_ISDISPLAY": "N",
       "AREA_LEVEL": "1",
       "L_CNG": "N",
+      "AREA_DESC": "表格中包含消费税、增值税以及城建税和教育附加。",
       "CHAI_0": "Y",
       "PROVINCE_ID": 44,
       "IS_DEL": "N",
       "E92": "N",
       "E95": "N",
-      "GAS_89": "N",
+      "GAS_89": "Y",
       "ISSHOWOTHER": "Y",
       "E98": "N",
       "CHAI_20": "N",
@@ -1215,5 +1216,5 @@
   },
   "toDay": "2023年04月17日",
   "provinceId": "44",
-  "createdAt": "2023-04-17T07:07:21.481Z"
+  "createdAt": "2023-04-17T09:17:35.700Z"
 }
