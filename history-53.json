@@ -62,7 +62,55 @@
           "GAS_92": "Y",
           "CNG": "N",
           "AIPAO95": "N"
-        }
+        },
+        "areaData": [
+          {
+            "AREA_ID": 53001,
+            "GAS_95": 8.62,
+            "CHAI_35": 0,
+            "CNG_STATUS": 0,
+            "LNG": 0,
+            "AIPAO_GAS_98_STATUS": 0,
+            "AIPAO_GAS_95_STATUS": 0,
+            "GAS_98": 9.3,
+            "PERIOD_ID": 59,
+            "LNG_STATUS": 0,
+            "AIPAO_GAS_E95": 0,
+            "CHECHAI_0": 7.62,
+            "AIPAO_GAS_E98": 0,
+            "CHECHAI_0_STATUS": 0,
+            "L_CNG": 0,
+            "AIPAO_GAS_E98_STATUS": 0,
+            "AIPAO_GAS_E92": 0,
+            "AIPAO_GAS_E95_STATUS": 0,
+            "L_CNG_STATUS": 0,
+            "CHECHAI_10_STATUS": 0,
+            "AIPAO_GAS_98": 9.3,
+            "AIPAO_GAS_95": 0,
+            "E92": 0,
+            "E92_STATUS": 0,
+            "E95": 0,
+            "GAS_98_STATUS": 0,
+            "GAS_89": 0,
+            "E98": 0,
+            "CHAI_20": 0,
+            "AIPAO_GAS_E92_STATUS": 0,
+            "E95_STATUS": 0,
+            "START_DATE": "2023-04-16T16:00:00.000+00:00",
+            "CHAI_ZYK_STATUS": 0,
+            "GAS_95_STATUS": 0,
+            "CHECHAI_10": 0,
+            "GAS_89_STATUS": 0,
+            "CHAI_ZYK": 0,
+            "GAS_92_STATUS": 0,
+            "CHAI_35_STATUS": 0,
+            "STR_START_DATE": "2023-04-17",
+            "E98_STATUS": 0,
+            "GAS_92": 8.03,
+            "CNG": 0,
+            "CHAI_20_STATUS": 0
+          }
+        ]
       }
     ],
     "provinceData": [
@@ -1250,5 +1298,5 @@
   },
   "toDay": "2023年04月17日",
   "provinceId": "53",
-  "createdAt": "2023-04-17T13:23:54.680Z"
+  "createdAt": "2023-04-17T15:18:39.764Z"
 }
