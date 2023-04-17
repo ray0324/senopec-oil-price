@@ -19,7 +19,7 @@
       "E92": "N",
       "E95": "N",
       "GAS_89": "N",
-      "ISSHOWOTHER": "Y",
+      "ISSHOWOTHER": "N",
       "E98": "N",
       "CHAI_20": "N",
       "PROVINCE_NAME": "北京",
@@ -1195,5 +1195,5 @@
   },
   "toDay": "2023年04月17日",
   "provinceId": "11",
-  "createdAt": "2023-04-17T09:41:49.289Z"
+  "createdAt": "2023-04-17T09:54:08.481Z"
 }
