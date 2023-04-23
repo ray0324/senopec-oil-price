@@ -30,7 +30,78 @@
       "CNG": "N",
       "AIPAO95": "N"
     },
-    "area": [],
+    "area": [
+      {
+        "areaCheck": {
+          "AREA_ID": 15002,
+          "GAS_95": "Y",
+          "CHAI_35": "Y",
+          "AIPAOE98": "N",
+          "CHAI_10": "N",
+          "LNG": "N",
+          "AIPAOE95": "N",
+          "GAS_98": "Y",
+          "AIPAOE92": "N",
+          "AREADESC_ISDISPLAY": "Y",
+          "AREA_LEVEL": "2",
+          "L_CNG": "N",
+          "AREA_DESC": "油价适用于呼和浩特、包头、鄂尔多斯、巴彦淖尔、乌兰察布、乌海、阿拉善",
+          "CHAI_0": "Y",
+          "PROVINCE_ID": 15,
+          "IS_DEL": "N",
+          "E92": "N",
+          "E95": "N",
+          "GAS_89": "N",
+          "ISSHOWOTHER": "N",
+          "AREA_NAME": "一价区",
+          "E98": "N",
+          "CHAI_20": "N",
+          "PROVINCE_NAME": "内蒙古",
+          "CHAI_ZYK": "N",
+          "CREATE_DATE": "2023-04-23T06:22:27.000+00:00",
+          "CREATE_BY": "neimengguyoujia",
+          "AIPAO98": "N",
+          "GAS_92": "Y",
+          "CNG": "N",
+          "AIPAO95": "N"
+        }
+      },
+      {
+        "areaCheck": {
+          "AREA_ID": 15001,
+          "GAS_95": "Y",
+          "CHAI_35": "Y",
+          "AIPAOE98": "N",
+          "CHAI_10": "N",
+          "LNG": "N",
+          "AIPAOE95": "N",
+          "GAS_98": "Y",
+          "AIPAOE92": "N",
+          "AREADESC_ISDISPLAY": "Y",
+          "AREA_LEVEL": "2",
+          "L_CNG": "N",
+          "AREA_DESC": "油价适用于赤峰、锡林郭勒、通辽、呼伦贝尔、兴安盟",
+          "CHAI_0": "Y",
+          "PROVINCE_ID": 15,
+          "IS_DEL": "N",
+          "E92": "N",
+          "E95": "N",
+          "GAS_89": "N",
+          "ISSHOWOTHER": "N",
+          "AREA_NAME": "二价区",
+          "E98": "N",
+          "CHAI_20": "N",
+          "PROVINCE_NAME": "内蒙古",
+          "CHAI_ZYK": "N",
+          "CREATE_DATE": "2023-04-23T06:22:21.000+00:00",
+          "CREATE_BY": "neimengguyoujia",
+          "AIPAO98": "N",
+          "GAS_92": "Y",
+          "CNG": "N",
+          "AIPAO95": "N"
+        }
+      }
+    ],
     "provinceData": [
       {
         "AREA_ID": 15000,
@@ -430,5 +501,5 @@
   },
   "toDay": "2023年04月23日",
   "provinceId": "15",
-  "createdAt": "2023-04-23T06:21:37.647Z"
+  "createdAt": "2023-04-23T06:35:00.641Z"
 }
