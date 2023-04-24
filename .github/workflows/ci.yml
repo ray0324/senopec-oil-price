@@ -6,6 +6,7 @@ on:
       - main
   schedule:
     # https://crontab.guru/#0_30_*_*_*
+    # 0 30 * * * 表示每天的 0 点 30 分执行
     - cron: '0 30 * * *'
 
 jobs:
