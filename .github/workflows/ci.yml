@@ -5,9 +5,9 @@ on:
     branches:
       - main
   schedule:
-    # https://crontab.guru/#0_30_*_*_*
-    # 0 30 * * * 表示每天的 0 点 30 分执行
-    - cron: '0 30 * * *'
+    # https://crontab.guru/#30_0_*_*_*
+    # 30 0 * * * 表示每天的 0 点 30 分执行
+    - cron: '30 0 * * *'
 
 jobs:
   build-and-deploy:
