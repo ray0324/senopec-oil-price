@@ -5,8 +5,8 @@ on:
     branches:
       - main
   schedule:
-    # 每天的 0 点 0 分 0 秒开始，每隔 3 小时执行一次
-    - cron: '* */3 * * *'
+    # https://crontab.guru/#0_30_*_*_*
+    - cron: '0 30 * * *'
 
 jobs:
   build-and-deploy:
