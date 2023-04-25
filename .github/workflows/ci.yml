@@ -6,8 +6,9 @@ on:
       - main
   schedule:
     # https://crontab.guru/#30_0_*_*_*
-    # 30 0 * * * 表示每天的 0 点 30 分执行
-    - cron: '30 0 * * *'
+    - cron: '25 0,1 * * *'
+env:
+  TZ: Asia/Shanghai
 
 jobs:
   build-and-deploy:
