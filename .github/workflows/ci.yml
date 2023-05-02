@@ -20,7 +20,7 @@ jobs:
         node-version: 18
     - run: npm run fetch
 
-    - uses: JamesIves/github-pages-deploy-action@v3
+    - uses: JamesIves/github-pages-deploy-action@v4
       with:
         token: ${{ secrets.PAGES_DEPLOY_TOKEN }}
         branch: gh-pages
