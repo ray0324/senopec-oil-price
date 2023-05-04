@@ -20,9 +20,9 @@ jobs:
         node-version: 18
     - run: npm run fetch
 
-    - uses: JamesIves/github-pages-deploy-action@v4
+    - uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
-        token: ${{ secrets.PAGES_DEPLOY_TOKEN }}
-        branch: gh-pages
-        folder: data
-        clean: true
+        ACCESS_TOKEN: ${{ secrets.PAGES_DEPLOY_TOKEN }}
+        BRANCH: gh-pages
+        FOLDER: data
+        CLEAN: true
