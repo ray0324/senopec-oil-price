@@ -39,7 +39,7 @@
           "CHAI_10": "N",
           "LNG": "N",
           "AIPAOE95": "N",
-          "GAS_98": "Y",
+          "GAS_98": "N",
           "AIPAOE92": "N",
           "AREADESC_ISDISPLAY": "Y",
           "AREA_LEVEL": "2",
@@ -1230,7 +1230,7 @@
           "CHAI_10": "N",
           "LNG": "N",
           "AIPAOE95": "N",
-          "GAS_98": "Y",
+          "GAS_98": "N",
           "AIPAOE92": "N",
           "AREADESC_ISDISPLAY": "Y",
           "AREA_LEVEL": "2",
@@ -2523,7 +2523,7 @@
           "CHAI_10": "N",
           "LNG": "N",
           "AIPAOE95": "N",
-          "GAS_98": "Y",
+          "GAS_98": "N",
           "AIPAOE92": "N",
           "AREADESC_ISDISPLAY": "Y",
           "AREA_LEVEL": "2",
@@ -3913,7 +3913,7 @@
       }
     ]
   },
-  "toDay": "2023年05月04日",
+  "toDay": "2023年05月05日",
   "provinceId": "52",
-  "createdAt": "2023-05-04T02:41:59.550Z"
+  "createdAt": "2023-05-05T01:40:51.396Z"
 }
