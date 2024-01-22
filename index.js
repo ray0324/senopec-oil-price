@@ -8,6 +8,18 @@ const HOST = 'https://cx.sinopecsales.com';
 // 文件存储路径
 const DIST = './data';
 
+// 解析cookie，包含多条cookie
+// https://stackoverflow.com/questions/3393854/get-and-set-a-single-cookie-with-node-js-http-server
+function parseCookies(cookie) {
+  const cookies = cookie.split(',');
+  const result = {};
+  for (let c of cookies) {
+    const [key, value] = c.split(';')[0].split('=');
+    result[key.trim()] = value;
+  }
+  return result;
+}
+
 /**
  * 请求入口获取会话
  * @returns {Promise<string>} cookie
@@ -16,7 +28,9 @@ async function getCookie() {
   const res = await fetch(`${HOST}/yjkqiantai/core/main`, {
     method: 'GET',
   });
-  return res.headers.get('Set-Cookie');
+  const cookies = parseCookies(res.headers.get('Set-Cookie'))
+  const cookie = `SESSION=${cookies.SESSION};`;
+  return cookie;
 }
 
 /**
@@ -40,6 +54,8 @@ function setProvince(cookie, provinceId = '44') {
 async function getPriceData(cookie) {
   const res = await fetch(`${HOST}/yjkqiantai/data/initMainData`, {
     headers: { cookie },
+    referrer: 'https://cx.sinopecsales.com/yjkqiantai/core/main',
+    referrerPolicy: 'strict-origin-when-cross-origin',
     method: 'GET',
   });
   const json = await res.json();
@@ -80,7 +96,8 @@ function saveJson(filename, data) {
 async function run() {
   // 获取会话
   const cookie = await getCookie();
-  console.log(`\x1b[32m%s\x1b[0m%s`, '✔', cookie);
+  console.log(cookie);
+  // return;
   // 遍历省份
   for (let province of provinces) {
     // 在console.log中添加颜色
