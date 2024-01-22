@@ -3,7 +3,7 @@ const fs = require('fs');
 const provinces = require('./provinces.json');
 
 // 接口地址
-const HOST = 'https://oilprice.ecc.net.cn';
+const HOST = 'https://cx.sinopecsales.com';
 
 // 文件存储路径
 const DIST = './data';
@@ -13,7 +13,7 @@ const DIST = './data';
  * @returns {Promise<string>} cookie
  */
 async function getCookie() {
-  const res = await fetch(`${HOST}/core/initCpb`, {
+  const res = await fetch(`${HOST}/yjkqiantai/core/main`, {
     method: 'GET',
   });
   return res.headers.get('Set-Cookie');
@@ -25,7 +25,7 @@ async function getCookie() {
  * @param {provinceId} provinceId
  */
 function setProvince(cookie, provinceId = '44') {
-  return fetch(`${HOST}/data/switchProvince`, {
+  return fetch(`${HOST}/yjkqiantai/data/switchProvince`, {
     headers: { cookie },
     body: `{"provinceId":"${provinceId}"}`,
     method: 'POST',
@@ -38,7 +38,7 @@ function setProvince(cookie, provinceId = '44') {
  * @returns {Promise<object>} 返回数据
  */
 async function getPriceData(cookie) {
-  const res = await fetch(`${HOST}/data/initMainData`, {
+  const res = await fetch(`${HOST}/yjkqiantai/data/initMainData`, {
     headers: { cookie },
     method: 'GET',
   });
@@ -52,7 +52,7 @@ async function getPriceData(cookie) {
  * @returns {Promise<object>} 返回数据
  */
 async function getHistoryPriceData(cookie) {
-  const res = await fetch(`${HOST}/data/initOilPrice`, {
+  const res = await fetch(`${HOST}/yjkqiantai/data/initOilPrice`, {
     headers: { cookie },
     method: 'GET',
   });
@@ -80,6 +80,7 @@ function saveJson(filename, data) {
 async function run() {
   // 获取会话
   const cookie = await getCookie();
+  console.log(`\x1b[32m%s\x1b[0m%s`, '✔', cookie);
   // 遍历省份
   for (let province of provinces) {
     // 在console.log中添加颜色
