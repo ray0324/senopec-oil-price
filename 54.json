@@ -77,14 +77,14 @@
           "AREA_ID": 54003,
           "GAS_95": 9.6,
           "CHAI_20": 9.4,
-          "PERIOD_ID": 79,
-          "START_DATE": "2024-01-31 00:12:00",
+          "PERIOD_ID": 80,
+          "START_DATE": "2024-02-19 00:12:00",
           "CHECHAI_0": 8.44,
-          "GAS_95_STATUS": 0.17,
-          "CHECHAI_0_STATUS": 0.17,
-          "GAS_92_STATUS": 0.16,
+          "GAS_95_STATUS": 0,
+          "CHECHAI_0_STATUS": 0,
+          "GAS_92_STATUS": 0,
           "GAS_92": 9.09,
-          "CHAI_20_STATUS": 0.19
+          "CHAI_20_STATUS": 0
         }
       },
       {
@@ -128,14 +128,14 @@
           "AREA_ID": 54002,
           "GAS_95": 9.38,
           "CHAI_20": 9.16,
-          "PERIOD_ID": 79,
-          "START_DATE": "2024-01-31 00:12:00",
+          "PERIOD_ID": 80,
+          "START_DATE": "2024-02-19 00:12:00",
           "CHECHAI_0": 8.23,
-          "GAS_95_STATUS": 0.16,
-          "CHECHAI_0_STATUS": 0.17,
-          "GAS_92_STATUS": 0.16,
+          "GAS_95_STATUS": 0,
+          "CHECHAI_0_STATUS": 0,
+          "GAS_92_STATUS": 0,
           "GAS_92": 8.89,
-          "CHAI_20_STATUS": 0.19
+          "CHAI_20_STATUS": 0
         }
       },
       {
@@ -179,20 +179,20 @@
           "AREA_ID": 54001,
           "GAS_95": 9.2,
           "CHAI_20": 8.96,
-          "PERIOD_ID": 79,
-          "START_DATE": "2024-01-31 00:12:00",
+          "PERIOD_ID": 80,
+          "START_DATE": "2024-02-19 00:12:00",
           "CHECHAI_0": 8.03,
-          "GAS_95_STATUS": 0.17,
-          "CHECHAI_0_STATUS": 0.17,
-          "GAS_92_STATUS": 0.16,
+          "GAS_95_STATUS": 0,
+          "CHECHAI_0_STATUS": 0,
+          "GAS_92_STATUS": 0,
           "GAS_92": 8.7,
-          "CHAI_20_STATUS": 0.19
+          "CHAI_20_STATUS": 0
         }
       }
     ],
     "provinceData": null
   },
-  "toDay": "2024年02月19日",
-  "nowTime": "2024-02-18T20:29:56.263+00:00",
-  "createdAt": "2024-02-18T20:29:56.506Z"
+  "toDay": "2024年02月20日",
+  "nowTime": "2024-02-19T20:30:07.735+00:00",
+  "createdAt": "2024-02-19T20:30:07.987Z"
 }
