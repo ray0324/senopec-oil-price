@@ -76,14 +76,14 @@
         },
         "areaData": {
           "AREA_ID": 61008,
-          "GAS_95": 8.14,
-          "GAS_98_STATUS": 0,
-          "GAS_98": 10.69,
-          "PERIOD_ID": 80,
-          "START_DATE": "2024-02-19 00:12:00",
-          "GAS_95_STATUS": 0,
-          "GAS_92_STATUS": 0,
-          "GAS_92": 7.71
+          "GAS_95": 8.25,
+          "GAS_98_STATUS": 0.14,
+          "GAS_98": 10.83,
+          "PERIOD_ID": 81,
+          "START_DATE": "2024-03-04 00:12:00",
+          "GAS_95_STATUS": 0.11,
+          "GAS_92_STATUS": 0.1,
+          "GAS_92": 7.81
         }
       },
       {
@@ -125,14 +125,14 @@
         },
         "areaData": {
           "AREA_ID": 61007,
-          "GAS_95": 8.23,
-          "GAS_98_STATUS": 0,
-          "GAS_98": 10.69,
-          "PERIOD_ID": 80,
-          "START_DATE": "2024-02-19 00:12:00",
-          "GAS_95_STATUS": 0,
-          "GAS_92_STATUS": 0,
-          "GAS_92": 7.79
+          "GAS_95": 8.33,
+          "GAS_98_STATUS": 0.14,
+          "GAS_98": 10.83,
+          "PERIOD_ID": 81,
+          "START_DATE": "2024-03-04 00:12:00",
+          "GAS_95_STATUS": 0.1,
+          "GAS_92_STATUS": 0.1,
+          "GAS_92": 7.89
         }
       },
       {
@@ -174,10 +174,10 @@
         },
         "areaData": {
           "AREA_ID": 61006,
-          "PERIOD_ID": 80,
-          "START_DATE": "2024-02-19 00:12:00",
-          "CHECHAI_0": 7.38,
-          "CHECHAI_0_STATUS": 0
+          "PERIOD_ID": 81,
+          "START_DATE": "2024-03-04 00:12:00",
+          "CHECHAI_0": 7.48,
+          "CHECHAI_0_STATUS": 0.1
         }
       },
       {
@@ -219,16 +219,16 @@
         },
         "areaData": {
           "AREA_ID": 61005,
-          "PERIOD_ID": 80,
-          "START_DATE": "2024-02-19 00:12:00",
-          "CHECHAI_0": 7.55,
-          "CHECHAI_0_STATUS": 0
+          "PERIOD_ID": 81,
+          "START_DATE": "2024-03-04 00:12:00",
+          "CHECHAI_0": 7.65,
+          "CHECHAI_0_STATUS": 0.1
         }
       }
     ],
     "provinceData": null
   },
-  "toDay": "2024年03月04日",
-  "nowTime": "2024-03-03T20:29:55.615+00:00",
-  "createdAt": "2024-03-03T20:29:55.840Z"
+  "toDay": "2024年03月05日",
+  "nowTime": "2024-03-04T20:29:53.579+00:00",
+  "createdAt": "2024-03-04T20:29:53.812Z"
 }
