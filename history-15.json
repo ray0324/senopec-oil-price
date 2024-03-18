@@ -78,6 +78,31 @@
             "AREA_ID": 15002,
             "GAS_95": 8.39,
             "CHAI_35": 8.53,
+            "START_TIME": "2024-03-19 00:00:00",
+            "GAS_98_STATUS": 0,
+            "GAS_98": 9.2,
+            "PERIOD_ID": 82,
+            "START_DATE": "2024-03-18 00:12:00",
+            "CHECHAI_0": 7.46,
+            "GAS_95_STATUS": 0,
+            "CHECHAI_0_STATUS": 0,
+            "STATUS": "Y",
+            "CREATE_DATE": "2024-03-18T06:21:48.000+00:00",
+            "GAS_92_STATUS": 0,
+            "queryDate": "2024-03-19",
+            "END_TIME": "2024-04-01 23:59:59",
+            "YEAR": 2024,
+            "CHAI_35_STATUS": 0,
+            "STR_START_DATE": "2024-03-18",
+            "PUCHAI_10": 0,
+            "PROVINCE_ID": 15,
+            "PUCHAI_0": 0,
+            "GAS_92": 7.86
+          },
+          {
+            "AREA_ID": 15002,
+            "GAS_95": 8.39,
+            "CHAI_35": 8.53,
             "START_TIME": "2024-03-05 00:00:00",
             "GAS_98": 9.2,
             "CHECHAI_0_COLOR": "red",
@@ -774,6 +799,31 @@
           "AIPAO95": "N"
         },
         "areaData": [
+          {
+            "AREA_ID": 15001,
+            "GAS_95": 8.41,
+            "CHAI_35": 8.5,
+            "START_TIME": "2024-03-19 00:00:00",
+            "GAS_98_STATUS": 0,
+            "GAS_98": 9.33,
+            "PERIOD_ID": 82,
+            "START_DATE": "2024-03-18 00:12:00",
+            "CHECHAI_0": 7.43,
+            "GAS_95_STATUS": 0,
+            "CHECHAI_0_STATUS": 0,
+            "STATUS": "Y",
+            "CREATE_DATE": "2024-03-18T06:21:48.000+00:00",
+            "GAS_92_STATUS": 0,
+            "queryDate": "2024-03-19",
+            "END_TIME": "2024-04-01 23:59:59",
+            "YEAR": 2024,
+            "CHAI_35_STATUS": 0,
+            "STR_START_DATE": "2024-03-18",
+            "PUCHAI_10": 0,
+            "PROVINCE_ID": 15,
+            "PUCHAI_0": 0,
+            "GAS_92": 7.89
+          },
           {
             "AREA_ID": 15001,
             "GAS_95": 8.41,
@@ -1479,7 +1529,7 @@
       }
     ]
   },
-  "toDay": "2024年03月18日",
+  "toDay": "2024年03月19日",
   "provinceId": "15",
-  "createdAt": "2024-03-17T20:30:00.108Z"
+  "createdAt": "2024-03-18T20:29:46.514Z"
 }
