@@ -76,6 +76,36 @@
         "areaData": [
           {
             "AREA_ID": 23002,
+            "GAS_95": 8.66,
+            "CHAI_35": 8.7,
+            "START_TIME": "2024-04-02 00:00:00",
+            "GAS_98": 9.82,
+            "CHECHAI_0_COLOR": "red",
+            "PERIOD_ID": 83,
+            "CHECHAI_0": 7.6,
+            "CHECHAI_0_STATUS": 0.16,
+            "STATUS": "Y",
+            "queryDate": "2024-04-02",
+            "END_TIME": "2024-04-16 23:59:59",
+            "YEAR": 2024,
+            "GAS_98_COLOR": "red",
+            "PUCHAI_10": 0,
+            "PROVINCE_ID": 23,
+            "GAS_98_STATUS": 0.19,
+            "START_DATE": "2024-04-01 00:12:00",
+            "GAS_95_STATUS": 0.17,
+            "GAS_95_COLOR": "red",
+            "CREATE_DATE": "2024-04-01T09:01:25.000+00:00",
+            "GAS_92_STATUS": 0.16,
+            "CHAI_35_STATUS": 0.18,
+            "GAS_92_COLOR": "red",
+            "STR_START_DATE": "2024-04-01",
+            "CHAI_35_COLOR": "red",
+            "PUCHAI_0": 0,
+            "GAS_92": 8.11
+          },
+          {
+            "AREA_ID": 23002,
             "GAS_95": 8.49,
             "CHAI_35": 8.52,
             "START_TIME": "2024-03-19 00:00:00",
@@ -829,6 +859,36 @@
           "AIPAO95": "N"
         },
         "areaData": [
+          {
+            "AREA_ID": 23001,
+            "GAS_95": 8.71,
+            "CHAI_35": 8.72,
+            "START_TIME": "2024-04-02 00:00:00",
+            "GAS_98": 9.88,
+            "CHECHAI_0_COLOR": "red",
+            "PERIOD_ID": 83,
+            "CHECHAI_0": 7.62,
+            "CHECHAI_0_STATUS": 0.16,
+            "STATUS": "Y",
+            "queryDate": "2024-04-02",
+            "END_TIME": "2024-04-16 23:59:59",
+            "YEAR": 2024,
+            "GAS_98_COLOR": "red",
+            "PUCHAI_10": 0,
+            "PROVINCE_ID": 23,
+            "GAS_98_STATUS": 0.2,
+            "START_DATE": "2024-04-01 00:12:00",
+            "GAS_95_STATUS": 0.17,
+            "GAS_95_COLOR": "red",
+            "CREATE_DATE": "2024-04-01T09:01:25.000+00:00",
+            "GAS_92_STATUS": 0.16,
+            "CHAI_35_STATUS": 0.18,
+            "GAS_92_COLOR": "red",
+            "STR_START_DATE": "2024-04-01",
+            "CHAI_35_COLOR": "red",
+            "PUCHAI_0": 0,
+            "GAS_92": 8.15
+          },
           {
             "AREA_ID": 23001,
             "GAS_95": 8.54,
@@ -1588,7 +1648,7 @@
       }
     ]
   },
-  "toDay": "2024年04月01日",
+  "toDay": "2024年04月02日",
   "provinceId": "23",
-  "createdAt": "2024-03-31T20:30:00.942Z"
+  "createdAt": "2024-04-01T20:29:57.884Z"
 }

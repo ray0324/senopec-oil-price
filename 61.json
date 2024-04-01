@@ -76,14 +76,14 @@
         },
         "areaData": {
           "AREA_ID": 61008,
-          "GAS_95": 8.25,
-          "GAS_98_STATUS": 0,
-          "GAS_98": 10.83,
-          "PERIOD_ID": 82,
-          "START_DATE": "2024-03-18 00:12:00",
-          "GAS_95_STATUS": 0,
-          "GAS_92_STATUS": 0,
-          "GAS_92": 7.81
+          "GAS_95": 8.42,
+          "GAS_98_STATUS": 0.22,
+          "GAS_98": 11.05,
+          "PERIOD_ID": 83,
+          "START_DATE": "2024-04-01 00:12:00",
+          "GAS_95_STATUS": 0.17,
+          "GAS_92_STATUS": 0.16,
+          "GAS_92": 7.97
         }
       },
       {
@@ -125,14 +125,14 @@
         },
         "areaData": {
           "AREA_ID": 61007,
-          "GAS_95": 8.33,
-          "GAS_98_STATUS": 0,
-          "GAS_98": 10.83,
-          "PERIOD_ID": 82,
-          "START_DATE": "2024-03-18 00:12:00",
-          "GAS_95_STATUS": 0,
-          "GAS_92_STATUS": 0,
-          "GAS_92": 7.89
+          "GAS_95": 8.5,
+          "GAS_98_STATUS": 0.22,
+          "GAS_98": 11.05,
+          "PERIOD_ID": 83,
+          "START_DATE": "2024-04-01 00:12:00",
+          "GAS_95_STATUS": 0.17,
+          "GAS_92_STATUS": 0.16,
+          "GAS_92": 8.05
         }
       },
       {
@@ -174,10 +174,10 @@
         },
         "areaData": {
           "AREA_ID": 61006,
-          "PERIOD_ID": 82,
-          "START_DATE": "2024-03-18 00:12:00",
-          "CHECHAI_0": 7.48,
-          "CHECHAI_0_STATUS": 0
+          "PERIOD_ID": 83,
+          "START_DATE": "2024-04-01 00:12:00",
+          "CHECHAI_0": 7.65,
+          "CHECHAI_0_STATUS": 0.17
         }
       },
       {
@@ -219,16 +219,16 @@
         },
         "areaData": {
           "AREA_ID": 61005,
-          "PERIOD_ID": 82,
-          "START_DATE": "2024-03-18 00:12:00",
-          "CHECHAI_0": 7.65,
-          "CHECHAI_0_STATUS": 0
+          "PERIOD_ID": 83,
+          "START_DATE": "2024-04-01 00:12:00",
+          "CHECHAI_0": 7.82,
+          "CHECHAI_0_STATUS": 0.17
         }
       }
     ],
     "provinceData": null
   },
-  "toDay": "2024年04月01日",
-  "nowTime": "2024-03-31T20:29:58.554+00:00",
-  "createdAt": "2024-03-31T20:29:58.809Z"
+  "toDay": "2024年04月02日",
+  "nowTime": "2024-04-01T20:29:55.845+00:00",
+  "createdAt": "2024-04-01T20:29:56.077Z"
 }
