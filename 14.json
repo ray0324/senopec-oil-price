@@ -3,13 +3,13 @@
   "data": {
     "provinceCheck": {
       "AREA_ID": 14000,
-      "GAS_95": "Y",
+      "GAS_95": "N",
       "CHAI_35": "N",
       "AIPAOE98": "N",
       "CHAI_10": "N",
       "LNG": "N",
       "AIPAOE95": "N",
-      "GAS_98": "Y",
+      "GAS_98": "N",
       "AIPAOE92": "N",
       "AREADESC_ISDISPLAY": "N",
       "USER_ID": "",
@@ -34,7 +34,7 @@
       "AIPAO98": "Y",
       "GAS_92": "Y",
       "CNG": "N",
-      "AIPAO95": "N"
+      "AIPAO95": "Y"
     },
     "area": [],
     "provinceData": {
@@ -50,10 +50,11 @@
       "CHECHAI_0_STATUS": 0.17,
       "GAS_92_STATUS": 0.16,
       "AIPAO_GAS_98": 9.78,
-      "GAS_92": 8.03
+      "GAS_92": 8.03,
+      "AIPAO_GAS_95": 8.67
     }
   },
-  "toDay": "2024年04月15日",
-  "nowTime": "2024-04-14T22:27:32.470+00:00",
-  "createdAt": "2024-04-14T22:27:32.672Z"
+  "toDay": "2024年04月16日",
+  "nowTime": "2024-04-15T20:29:21.048+00:00",
+  "createdAt": "2024-04-15T20:29:21.192Z"
 }
