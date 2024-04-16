@@ -75,16 +75,16 @@
         },
         "areaData": {
           "AREA_ID": 63003,
-          "GAS_95": 8.62,
+          "GAS_95": 8.79,
           "GAS_98_STATUS": 0.19,
-          "GAS_98": 9.39,
-          "PERIOD_ID": 83,
-          "START_DATE": "2024-04-01 00:12:00",
-          "CHECHAI_0": 7.68,
+          "GAS_98": 9.58,
+          "PERIOD_ID": 84,
+          "START_DATE": "2024-04-16 00:12:00",
+          "CHECHAI_0": 7.84,
           "GAS_95_STATUS": 0.17,
-          "CHECHAI_0_STATUS": 0.17,
+          "CHECHAI_0_STATUS": 0.16,
           "GAS_92_STATUS": 0.16,
-          "GAS_92": 8.04
+          "GAS_92": 8.2
         }
       },
       {
@@ -126,16 +126,16 @@
         },
         "areaData": {
           "AREA_ID": 63002,
-          "GAS_95": 8.72,
-          "GAS_98_STATUS": 0.19,
-          "GAS_98": 9.5,
-          "PERIOD_ID": 83,
-          "START_DATE": "2024-04-01 00:12:00",
-          "CHECHAI_0": 7.77,
-          "GAS_95_STATUS": 0.18,
+          "GAS_95": 8.89,
+          "GAS_98_STATUS": 0.18,
+          "GAS_98": 9.68,
+          "PERIOD_ID": 84,
+          "START_DATE": "2024-04-16 00:12:00",
+          "CHECHAI_0": 7.93,
+          "GAS_95_STATUS": 0.17,
           "CHECHAI_0_STATUS": 0.16,
           "GAS_92_STATUS": 0.16,
-          "GAS_92": 8.13
+          "GAS_92": 8.29
         }
       },
       {
@@ -176,26 +176,26 @@
         },
         "areaData": {
           "AREA_ID": 63001,
-          "GAS_95": 8.83,
+          "GAS_95": 9,
           "GAS_98_STATUS": 0.19,
-          "GAS_98": 9.62,
-          "PERIOD_ID": 83,
-          "START_DATE": "2024-04-01 00:12:00",
-          "CHECHAI_0": 7.88,
+          "GAS_98": 9.81,
+          "PERIOD_ID": 84,
+          "START_DATE": "2024-04-16 00:12:00",
+          "CHECHAI_0": 8.05,
           "GAS_95_STATUS": 0.17,
-          "CHECHAI_0_STATUS": 0.16,
-          "GAS_92_STATUS": 0.17,
-          "GAS_92": 8.24
+          "CHECHAI_0_STATUS": 0.17,
+          "GAS_92_STATUS": 0.16,
+          "GAS_92": 8.4
         }
       }
     ],
     "provinceData": {
       "AREA_ID": 63000,
-      "PERIOD_ID": 83,
-      "START_DATE": "2024-04-01 00:12:00"
+      "PERIOD_ID": 84,
+      "START_DATE": "2024-04-16 00:12:00"
     }
   },
-  "toDay": "2024年04月16日",
-  "nowTime": "2024-04-15T20:29:45.362+00:00",
-  "createdAt": "2024-04-15T20:29:45.562Z"
+  "toDay": "2024年04月17日",
+  "nowTime": "2024-04-16T20:30:08.023+00:00",
+  "createdAt": "2024-04-16T20:30:08.271Z"
 }
