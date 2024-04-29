@@ -39,6 +39,36 @@
     "provinceData": [
       {
         "AREA_ID": 43000,
+        "GAS_95": 8.65,
+        "START_TIME": "2024-04-30 00:00:00",
+        "AIPAO_GAS_98_STATUS": -0.06,
+        "GAS_98": 9.45,
+        "CHECHAI_0_COLOR": "blue",
+        "PERIOD_ID": 85,
+        "CHECHAI_0": 7.93,
+        "CHECHAI_0_STATUS": -0.06,
+        "STATUS": "Y",
+        "queryDate": "2024-04-30",
+        "END_TIME": "2024-05-15 23:59:59",
+        "YEAR": 2024,
+        "GAS_98_COLOR": "blue",
+        "PUCHAI_10": 0,
+        "PROVINCE_ID": 43,
+        "AIPAO_GAS_98": 9.65,
+        "AIPAO_GAS_98_COLOR": "blue",
+        "GAS_98_STATUS": -0.06,
+        "START_DATE": "2024-04-29 00:12:00",
+        "GAS_95_STATUS": -0.06,
+        "GAS_95_COLOR": "blue",
+        "CREATE_DATE": "2024-04-29T09:39:40.000+00:00",
+        "GAS_92_STATUS": -0.06,
+        "GAS_92_COLOR": "blue",
+        "STR_START_DATE": "2024-04-29",
+        "PUCHAI_0": 0,
+        "GAS_92": 8.13
+      },
+      {
+        "AREA_ID": 43000,
         "GAS_95": 8.71,
         "START_TIME": "2024-04-17 00:00:00",
         "AIPAO_GAS_98_STATUS": 0.17,
@@ -754,7 +784,7 @@
       }
     ]
   },
-  "toDay": "2024年04月29日",
+  "toDay": "2024年04月30日",
   "provinceId": "43",
-  "createdAt": "2024-04-28T20:29:24.258Z"
+  "createdAt": "2024-04-29T20:29:35.846Z"
 }
