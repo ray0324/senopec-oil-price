@@ -75,16 +75,16 @@
         },
         "areaData": {
           "AREA_ID": 63003,
-          "GAS_95": 8.73,
-          "GAS_98_STATUS": -0.07,
-          "GAS_98": 9.51,
-          "PERIOD_ID": 85,
-          "START_DATE": "2024-04-29 00:12:00",
-          "CHECHAI_0": 7.78,
-          "GAS_95_STATUS": -0.06,
-          "CHECHAI_0_STATUS": -0.06,
-          "GAS_92_STATUS": -0.05,
-          "GAS_92": 8.15
+          "GAS_95": 8.53,
+          "GAS_98_STATUS": -0.22,
+          "GAS_98": 9.29,
+          "PERIOD_ID": 86,
+          "START_DATE": "2024-05-15 00:12:00",
+          "CHECHAI_0": 7.59,
+          "GAS_95_STATUS": -0.2,
+          "CHECHAI_0_STATUS": -0.19,
+          "GAS_92_STATUS": -0.19,
+          "GAS_92": 7.96
         }
       },
       {
@@ -126,16 +126,16 @@
         },
         "areaData": {
           "AREA_ID": 63002,
-          "GAS_95": 8.83,
-          "GAS_98_STATUS": -0.06,
-          "GAS_98": 9.62,
-          "PERIOD_ID": 85,
-          "START_DATE": "2024-04-29 00:12:00",
-          "CHECHAI_0": 7.88,
-          "GAS_95_STATUS": -0.06,
-          "CHECHAI_0_STATUS": -0.05,
-          "GAS_92_STATUS": -0.05,
-          "GAS_92": 8.24
+          "GAS_95": 8.63,
+          "GAS_98_STATUS": -0.22,
+          "GAS_98": 9.4,
+          "PERIOD_ID": 86,
+          "START_DATE": "2024-05-15 00:12:00",
+          "CHECHAI_0": 7.68,
+          "GAS_95_STATUS": -0.2,
+          "CHECHAI_0_STATUS": -0.2,
+          "GAS_92_STATUS": -0.19,
+          "GAS_92": 8.05
         }
       },
       {
@@ -176,26 +176,26 @@
         },
         "areaData": {
           "AREA_ID": 63001,
-          "GAS_95": 8.94,
-          "GAS_98_STATUS": -0.07,
-          "GAS_98": 9.74,
-          "PERIOD_ID": 85,
-          "START_DATE": "2024-04-29 00:12:00",
-          "CHECHAI_0": 7.99,
-          "GAS_95_STATUS": -0.06,
-          "CHECHAI_0_STATUS": -0.06,
-          "GAS_92_STATUS": -0.06,
-          "GAS_92": 8.34
+          "GAS_95": 8.74,
+          "GAS_98_STATUS": -0.22,
+          "GAS_98": 9.52,
+          "PERIOD_ID": 86,
+          "START_DATE": "2024-05-15 00:12:00",
+          "CHECHAI_0": 7.79,
+          "GAS_95_STATUS": -0.2,
+          "CHECHAI_0_STATUS": -0.2,
+          "GAS_92_STATUS": -0.19,
+          "GAS_92": 8.15
         }
       }
     ],
     "provinceData": {
       "AREA_ID": 63000,
-      "PERIOD_ID": 85,
-      "START_DATE": "2024-04-29 00:12:00"
+      "PERIOD_ID": 86,
+      "START_DATE": "2024-05-15 00:12:00"
     }
   },
-  "toDay": "2024年05月15日",
-  "nowTime": "2024-05-14T20:30:00.755+00:00",
-  "createdAt": "2024-05-14T20:30:01.004Z"
+  "toDay": "2024年05月16日",
+  "nowTime": "2024-05-15T20:30:45.576+00:00",
+  "createdAt": "2024-05-15T20:30:45.824Z"
 }
