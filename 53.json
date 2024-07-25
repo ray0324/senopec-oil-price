@@ -76,16 +76,16 @@
         },
         "areaData": {
           "AREA_ID": 53005,
-          "GAS_95": 8.86,
-          "AIPAO_GAS_98_STATUS": 0.1,
-          "PERIOD_ID": 90,
-          "START_DATE": "2024-07-11 00:12:00",
-          "CHECHAI_0": 7.85,
-          "GAS_95_STATUS": 0.1,
-          "CHECHAI_0_STATUS": 0.09,
-          "GAS_92_STATUS": 0.09,
-          "AIPAO_GAS_98": 9.54,
-          "GAS_92": 8.25
+          "GAS_95": 8.73,
+          "AIPAO_GAS_98_STATUS": -0.13,
+          "PERIOD_ID": 91,
+          "START_DATE": "2024-07-25 00:12:00",
+          "CHECHAI_0": 7.73,
+          "GAS_95_STATUS": -0.13,
+          "CHECHAI_0_STATUS": -0.12,
+          "GAS_92_STATUS": -0.11,
+          "AIPAO_GAS_98": 9.41,
+          "GAS_92": 8.14
         }
       },
       {
@@ -127,16 +127,16 @@
         },
         "areaData": {
           "AREA_ID": 53004,
-          "GAS_95": 8.93,
-          "AIPAO_GAS_98_STATUS": 0.09,
-          "PERIOD_ID": 90,
-          "START_DATE": "2024-07-11 00:12:00",
-          "CHECHAI_0": 7.93,
-          "GAS_95_STATUS": 0.09,
-          "CHECHAI_0_STATUS": 0.09,
-          "GAS_92_STATUS": 0.09,
-          "AIPAO_GAS_98": 9.61,
-          "GAS_92": 8.33
+          "GAS_95": 8.81,
+          "AIPAO_GAS_98_STATUS": -0.12,
+          "PERIOD_ID": 91,
+          "START_DATE": "2024-07-25 00:12:00",
+          "CHECHAI_0": 7.81,
+          "GAS_95_STATUS": -0.12,
+          "CHECHAI_0_STATUS": -0.12,
+          "GAS_92_STATUS": -0.12,
+          "AIPAO_GAS_98": 9.49,
+          "GAS_92": 8.21
         }
       },
       {
@@ -178,16 +178,16 @@
         },
         "areaData": {
           "AREA_ID": 53003,
-          "GAS_95": 9.01,
-          "AIPAO_GAS_98_STATUS": 0.09,
-          "PERIOD_ID": 90,
-          "START_DATE": "2024-07-11 00:12:00",
-          "CHECHAI_0": 8.02,
-          "GAS_95_STATUS": 0.09,
-          "CHECHAI_0_STATUS": 0.09,
-          "GAS_92_STATUS": 0.09,
-          "AIPAO_GAS_98": 9.69,
-          "GAS_92": 8.4
+          "GAS_95": 8.89,
+          "AIPAO_GAS_98_STATUS": -0.12,
+          "PERIOD_ID": 91,
+          "START_DATE": "2024-07-25 00:12:00",
+          "CHECHAI_0": 7.9,
+          "GAS_95_STATUS": -0.12,
+          "CHECHAI_0_STATUS": -0.12,
+          "GAS_92_STATUS": -0.11,
+          "AIPAO_GAS_98": 9.57,
+          "GAS_92": 8.29
         }
       },
       {
@@ -229,16 +229,16 @@
         },
         "areaData": {
           "AREA_ID": 53002,
-          "GAS_95": 9.09,
-          "AIPAO_GAS_98_STATUS": 0.1,
-          "PERIOD_ID": 90,
-          "START_DATE": "2024-07-11 00:12:00",
-          "CHECHAI_0": 8.1,
-          "GAS_95_STATUS": 0.1,
-          "CHECHAI_0_STATUS": 0.09,
-          "GAS_92_STATUS": 0.09,
-          "AIPAO_GAS_98": 9.77,
-          "GAS_92": 8.48
+          "GAS_95": 8.96,
+          "AIPAO_GAS_98_STATUS": -0.13,
+          "PERIOD_ID": 91,
+          "START_DATE": "2024-07-25 00:12:00",
+          "CHECHAI_0": 7.98,
+          "GAS_95_STATUS": -0.13,
+          "CHECHAI_0_STATUS": -0.12,
+          "GAS_92_STATUS": -0.12,
+          "AIPAO_GAS_98": 9.64,
+          "GAS_92": 8.36
         }
       },
       {
@@ -280,22 +280,22 @@
         },
         "areaData": {
           "AREA_ID": 53001,
-          "GAS_95": 9.15,
-          "AIPAO_GAS_98_STATUS": 0.1,
-          "PERIOD_ID": 90,
-          "START_DATE": "2024-07-11 00:12:00",
-          "CHECHAI_0": 8.17,
-          "GAS_95_STATUS": 0.1,
-          "CHECHAI_0_STATUS": 0.09,
-          "GAS_92_STATUS": 0.09,
-          "AIPAO_GAS_98": 9.83,
-          "GAS_92": 8.54
+          "GAS_95": 9.02,
+          "AIPAO_GAS_98_STATUS": -0.13,
+          "PERIOD_ID": 91,
+          "START_DATE": "2024-07-25 00:12:00",
+          "CHECHAI_0": 8.05,
+          "GAS_95_STATUS": -0.13,
+          "CHECHAI_0_STATUS": -0.12,
+          "GAS_92_STATUS": -0.12,
+          "AIPAO_GAS_98": 9.7,
+          "GAS_92": 8.42
         }
       }
     ],
     "provinceData": null
   },
-  "toDay": "2024年07月25日",
-  "nowTime": "2024-07-24T20:29:35.251+00:00",
-  "createdAt": "2024-07-24T20:29:35.540Z"
+  "toDay": "2024年07月26日",
+  "nowTime": "2024-07-25T20:29:40.936+00:00",
+  "createdAt": "2024-07-25T20:29:41.223Z"
 }

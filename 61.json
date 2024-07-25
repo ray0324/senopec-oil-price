@@ -76,14 +76,14 @@
         },
         "areaData": {
           "AREA_ID": 61008,
-          "GAS_95": 8.44,
-          "GAS_98_STATUS": 0.12,
-          "GAS_98": 11.07,
-          "PERIOD_ID": 90,
-          "START_DATE": "2024-07-11 00:12:00",
-          "GAS_95_STATUS": 0.09,
-          "GAS_92_STATUS": 0.09,
-          "GAS_92": 7.99
+          "GAS_95": 8.32,
+          "GAS_98_STATUS": -0.15,
+          "GAS_98": 10.92,
+          "PERIOD_ID": 91,
+          "START_DATE": "2024-07-25 00:12:00",
+          "GAS_95_STATUS": -0.12,
+          "GAS_92_STATUS": -0.12,
+          "GAS_92": 7.87
         }
       },
       {
@@ -125,14 +125,14 @@
         },
         "areaData": {
           "AREA_ID": 61007,
-          "GAS_95": 8.52,
-          "GAS_98_STATUS": 0.12,
-          "GAS_98": 11.07,
-          "PERIOD_ID": 90,
-          "START_DATE": "2024-07-11 00:12:00",
-          "GAS_95_STATUS": 0.09,
-          "GAS_92_STATUS": 0.09,
-          "GAS_92": 8.07
+          "GAS_95": 8.4,
+          "GAS_98_STATUS": -0.15,
+          "GAS_98": 10.92,
+          "PERIOD_ID": 91,
+          "START_DATE": "2024-07-25 00:12:00",
+          "GAS_95_STATUS": -0.12,
+          "GAS_92_STATUS": -0.12,
+          "GAS_92": 7.95
         }
       },
       {
@@ -174,10 +174,10 @@
         },
         "areaData": {
           "AREA_ID": 61006,
-          "PERIOD_ID": 90,
-          "START_DATE": "2024-07-11 00:12:00",
-          "CHECHAI_0": 7.67,
-          "CHECHAI_0_STATUS": 0.09
+          "PERIOD_ID": 91,
+          "START_DATE": "2024-07-25 00:12:00",
+          "CHECHAI_0": 7.55,
+          "CHECHAI_0_STATUS": -0.12
         }
       },
       {
@@ -219,16 +219,16 @@
         },
         "areaData": {
           "AREA_ID": 61005,
-          "PERIOD_ID": 90,
-          "START_DATE": "2024-07-11 00:12:00",
-          "CHECHAI_0": 7.84,
-          "CHECHAI_0_STATUS": 0.09
+          "PERIOD_ID": 91,
+          "START_DATE": "2024-07-25 00:12:00",
+          "CHECHAI_0": 7.72,
+          "CHECHAI_0_STATUS": -0.12
         }
       }
     ],
     "provinceData": null
   },
-  "toDay": "2024年07月25日",
-  "nowTime": "2024-07-24T20:29:47.776+00:00",
-  "createdAt": "2024-07-24T20:29:48.045Z"
+  "toDay": "2024年07月26日",
+  "nowTime": "2024-07-25T20:29:53.502+00:00",
+  "createdAt": "2024-07-25T20:29:53.768Z"
 }

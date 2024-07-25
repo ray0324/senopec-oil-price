@@ -75,6 +75,33 @@
         "areaData": [
           {
             "AREA_ID": 63003,
+            "GAS_95": 8.52,
+            "START_TIME": "2024-07-26 00:00:00",
+            "GAS_98": 9.28,
+            "CHECHAI_0_COLOR": "blue",
+            "PERIOD_ID": 91,
+            "CHECHAI_0": 7.58,
+            "CHECHAI_0_STATUS": -0.12,
+            "STATUS": "Y",
+            "queryDate": "2024-07-26",
+            "END_TIME": "2024-08-08 23:59:59",
+            "YEAR": 2024,
+            "GAS_98_COLOR": "blue",
+            "PUCHAI_10": 0,
+            "PROVINCE_ID": 63,
+            "GAS_98_STATUS": -0.14,
+            "START_DATE": "2024-07-25 00:12:00",
+            "GAS_95_STATUS": -0.12,
+            "GAS_95_COLOR": "blue",
+            "CREATE_DATE": "2024-07-25T09:12:05.000+00:00",
+            "GAS_92_STATUS": -0.11,
+            "GAS_92_COLOR": "blue",
+            "STR_START_DATE": "2024-07-25",
+            "PUCHAI_0": 0,
+            "GAS_92": 7.95
+          },
+          {
+            "AREA_ID": 63003,
             "GAS_95": 8.64,
             "START_TIME": "2024-07-12 00:00:00",
             "GAS_98": 9.42,
@@ -757,6 +784,33 @@
           "AIPAO95": "N"
         },
         "areaData": [
+          {
+            "AREA_ID": 63002,
+            "GAS_95": 8.61,
+            "START_TIME": "2024-07-26 00:00:00",
+            "GAS_98": 9.38,
+            "CHECHAI_0_COLOR": "blue",
+            "PERIOD_ID": 91,
+            "CHECHAI_0": 7.67,
+            "CHECHAI_0_STATUS": -0.12,
+            "STATUS": "Y",
+            "queryDate": "2024-07-26",
+            "END_TIME": "2024-08-08 23:59:59",
+            "YEAR": 2024,
+            "GAS_98_COLOR": "blue",
+            "PUCHAI_10": 0,
+            "PROVINCE_ID": 63,
+            "GAS_98_STATUS": -0.14,
+            "START_DATE": "2024-07-25 00:12:00",
+            "GAS_95_STATUS": -0.13,
+            "GAS_95_COLOR": "blue",
+            "CREATE_DATE": "2024-07-25T09:12:05.000+00:00",
+            "GAS_92_STATUS": -0.12,
+            "GAS_92_COLOR": "blue",
+            "STR_START_DATE": "2024-07-25",
+            "PUCHAI_0": 0,
+            "GAS_92": 8.03
+          },
           {
             "AREA_ID": 63002,
             "GAS_95": 8.74,
@@ -1442,6 +1496,33 @@
         "areaData": [
           {
             "AREA_ID": 63001,
+            "GAS_95": 8.73,
+            "START_TIME": "2024-07-26 00:00:00",
+            "GAS_98": 9.5,
+            "CHECHAI_0_COLOR": "blue",
+            "PERIOD_ID": 91,
+            "CHECHAI_0": 7.78,
+            "CHECHAI_0_STATUS": -0.12,
+            "STATUS": "Y",
+            "queryDate": "2024-07-26",
+            "END_TIME": "2024-08-08 23:59:59",
+            "YEAR": 2024,
+            "GAS_98_COLOR": "blue",
+            "PUCHAI_10": 0,
+            "PROVINCE_ID": 63,
+            "GAS_98_STATUS": -0.14,
+            "START_DATE": "2024-07-25 00:12:00",
+            "GAS_95_STATUS": -0.12,
+            "GAS_95_COLOR": "blue",
+            "CREATE_DATE": "2024-07-25T09:12:05.000+00:00",
+            "GAS_92_STATUS": -0.12,
+            "GAS_92_COLOR": "blue",
+            "STR_START_DATE": "2024-07-25",
+            "PUCHAI_0": 0,
+            "GAS_92": 8.14
+          },
+          {
+            "AREA_ID": 63001,
             "GAS_95": 8.85,
             "START_TIME": "2024-07-12 00:00:00",
             "GAS_98": 9.64,
@@ -2090,6 +2171,21 @@
     "provinceData": [
       {
         "AREA_ID": 63000,
+        "START_TIME": "2024-07-26 00:00:00",
+        "PERIOD_ID": 91,
+        "START_DATE": "2024-07-25 00:12:00",
+        "STATUS": "Y",
+        "CREATE_DATE": "2024-07-25T09:12:05.000+00:00",
+        "queryDate": "2024-07-26",
+        "END_TIME": "2024-08-08 23:59:59",
+        "YEAR": 2024,
+        "STR_START_DATE": "2024-07-25",
+        "PUCHAI_10": 0,
+        "PROVINCE_ID": 63,
+        "PUCHAI_0": 0
+      },
+      {
+        "AREA_ID": 63000,
         "START_TIME": "2024-07-12 00:00:00",
         "PERIOD_ID": 90,
         "START_DATE": "2024-07-11 00:12:00",
@@ -2395,7 +2491,7 @@
       }
     ]
   },
-  "toDay": "2024年07月25日",
+  "toDay": "2024年07月26日",
   "provinceId": "63",
-  "createdAt": "2024-07-24T20:29:53.009Z"
+  "createdAt": "2024-07-25T20:29:58.704Z"
 }
