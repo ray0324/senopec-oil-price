@@ -40,6 +40,33 @@
       {
         "AREA_ID": 11000,
         "GAS_95": 8.24,
+        "START_TIME": "2024-08-23 00:00:00",
+        "AIPAO_GAS_98_STATUS": 0,
+        "PERIOD_ID": 93,
+        "CHECHAI_0": 7.46,
+        "CHECHAI_0_STATUS": 0,
+        "STATUS": "Y",
+        "queryDate": "2024-08-23",
+        "END_TIME": "2024-09-05 23:59:59",
+        "YEAR": 2024,
+        "PUCHAI_10": 0,
+        "PROVINCE_ID": 11,
+        "CHECHAI_10_STATUS": 0,
+        "AIPAO_GAS_98": 9.74,
+        "CHAI_20": 8.28,
+        "START_DATE": "2024-08-22 00:12:00",
+        "GAS_95_STATUS": 0,
+        "CHECHAI_10": 7.9,
+        "CREATE_DATE": "2024-08-22T07:17:49.000+00:00",
+        "GAS_92_STATUS": 0,
+        "STR_START_DATE": "2024-08-22",
+        "PUCHAI_0": 0,
+        "GAS_92": 7.74,
+        "CHAI_20_STATUS": 0
+      },
+      {
+        "AREA_ID": 11000,
+        "GAS_95": 8.24,
         "START_TIME": "2024-08-09 00:00:00",
         "AIPAO_GAS_98_STATUS": -0.27,
         "CHECHAI_0_COLOR": "blue",
@@ -818,7 +845,7 @@
       }
     ]
   },
-  "toDay": "2024年08月22日",
+  "toDay": "2024年08月23日",
   "provinceId": "11",
-  "createdAt": "2024-08-21T20:31:26.766Z"
+  "createdAt": "2024-08-22T20:30:08.626Z"
 }
