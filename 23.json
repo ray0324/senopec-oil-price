@@ -76,18 +76,18 @@
         },
         "areaData": {
           "AREA_ID": 23002,
-          "GAS_95": 8.17,
-          "CHAI_35": 8.2,
-          "GAS_98_STATUS": -0.1,
-          "GAS_98": 9.26,
-          "PERIOD_ID": 94,
-          "START_DATE": "2024-09-05 00:12:00",
-          "CHECHAI_0": 7.13,
-          "GAS_95_STATUS": -0.08,
-          "CHECHAI_0_STATUS": -0.08,
-          "GAS_92_STATUS": -0.08,
-          "CHAI_35_STATUS": -0.1,
-          "GAS_92": 7.63
+          "GAS_95": 7.85,
+          "CHAI_35": 7.86,
+          "GAS_98_STATUS": -0.35,
+          "GAS_98": 8.91,
+          "PERIOD_ID": 95,
+          "START_DATE": "2024-09-20 00:12:00",
+          "CHECHAI_0": 6.83,
+          "GAS_95_STATUS": -0.32,
+          "CHECHAI_0_STATUS": -0.3,
+          "GAS_92_STATUS": -0.3,
+          "CHAI_35_STATUS": -0.34,
+          "GAS_92": 7.33
         }
       },
       {
@@ -129,24 +129,24 @@
         },
         "areaData": {
           "AREA_ID": 23001,
-          "GAS_95": 8.22,
-          "CHAI_35": 8.21,
-          "GAS_98_STATUS": -0.1,
-          "GAS_98": 9.32,
-          "PERIOD_ID": 94,
-          "START_DATE": "2024-09-05 00:12:00",
-          "CHECHAI_0": 7.15,
-          "GAS_95_STATUS": -0.08,
-          "CHECHAI_0_STATUS": -0.08,
-          "GAS_92_STATUS": -0.08,
-          "CHAI_35_STATUS": -0.1,
-          "GAS_92": 7.67
+          "GAS_95": 7.9,
+          "CHAI_35": 7.88,
+          "GAS_98_STATUS": -0.36,
+          "GAS_98": 8.96,
+          "PERIOD_ID": 95,
+          "START_DATE": "2024-09-20 00:12:00",
+          "CHECHAI_0": 6.85,
+          "GAS_95_STATUS": -0.32,
+          "CHECHAI_0_STATUS": -0.3,
+          "GAS_92_STATUS": -0.3,
+          "CHAI_35_STATUS": -0.33,
+          "GAS_92": 7.37
         }
       }
     ],
     "provinceData": null
   },
-  "toDay": "2024年09月20日",
-  "nowTime": "2024-09-19T20:31:16.612+00:00",
-  "createdAt": "2024-09-19T20:31:16.840Z"
+  "toDay": "2024年09月21日",
+  "nowTime": "2024-09-20T20:31:53.385+00:00",
+  "createdAt": "2024-09-20T20:31:53.613Z"
 }
