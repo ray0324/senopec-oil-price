@@ -76,18 +76,18 @@
         },
         "areaData": {
           "AREA_ID": 23002,
-          "GAS_95": 8.09,
-          "CHAI_35": 8.09,
-          "GAS_98_STATUS": 0.14,
-          "GAS_98": 9.18,
-          "PERIOD_ID": 97,
-          "START_DATE": "2024-10-23 00:12:00",
-          "CHECHAI_0": 7.05,
-          "GAS_95_STATUS": 0.11,
-          "CHECHAI_0_STATUS": 0.11,
-          "GAS_92_STATUS": 0.13,
-          "CHAI_35_STATUS": 0.1,
-          "GAS_92": 7.58
+          "GAS_95": 7.97,
+          "CHAI_35": 7.95,
+          "GAS_98_STATUS": -0.14,
+          "GAS_98": 9.04,
+          "PERIOD_ID": 98,
+          "START_DATE": "2024-11-06 00:12:00",
+          "CHECHAI_0": 6.94,
+          "GAS_95_STATUS": -0.12,
+          "CHECHAI_0_STATUS": -0.11,
+          "GAS_92_STATUS": -0.12,
+          "CHAI_35_STATUS": -0.14,
+          "GAS_92": 7.46
         }
       },
       {
@@ -129,24 +129,24 @@
         },
         "areaData": {
           "AREA_ID": 23001,
-          "GAS_95": 8.14,
-          "CHAI_35": 8.11,
-          "GAS_98_STATUS": 0.13,
-          "GAS_98": 9.23,
-          "PERIOD_ID": 97,
-          "START_DATE": "2024-10-23 00:12:00",
-          "CHECHAI_0": 7.08,
-          "GAS_95_STATUS": 0.12,
-          "CHECHAI_0_STATUS": 0.12,
-          "GAS_92_STATUS": 0.14,
-          "CHAI_35_STATUS": 0.1,
-          "GAS_92": 7.62
+          "GAS_95": 8.01,
+          "CHAI_35": 7.97,
+          "GAS_98_STATUS": -0.14,
+          "GAS_98": 9.09,
+          "PERIOD_ID": 98,
+          "START_DATE": "2024-11-06 00:12:00",
+          "CHECHAI_0": 6.96,
+          "GAS_95_STATUS": -0.13,
+          "CHECHAI_0_STATUS": -0.12,
+          "GAS_92_STATUS": -0.12,
+          "CHAI_35_STATUS": -0.14,
+          "GAS_92": 7.5
         }
       }
     ],
     "provinceData": null
   },
-  "toDay": "2024年11月06日",
-  "nowTime": "2024-11-05T20:31:39.017+00:00",
-  "createdAt": "2024-11-05T20:31:39.244Z"
+  "toDay": "2024年11月07日",
+  "nowTime": "2024-11-06T20:31:43.231+00:00",
+  "createdAt": "2024-11-06T20:31:43.468Z"
 }
