@@ -77,13 +77,13 @@
         "areaData": {
           "AREA_ID": 52003,
           "GAS_95": 8,
-          "AIPAO_GAS_98_STATUS": -0.12,
-          "PERIOD_ID": 98,
-          "START_DATE": "2024-11-06 00:12:00",
+          "AIPAO_GAS_98_STATUS": 0,
+          "PERIOD_ID": 99,
+          "START_DATE": "2024-11-20 00:12:00",
           "CHECHAI_0": 7.2,
-          "GAS_95_STATUS": -0.12,
-          "CHECHAI_0_STATUS": -0.12,
-          "GAS_92_STATUS": -0.11,
+          "GAS_95_STATUS": 0,
+          "CHECHAI_0_STATUS": 0,
+          "GAS_92_STATUS": 0,
           "AIPAO_GAS_98": 8.9,
           "GAS_92": 7.57
         }
@@ -128,13 +128,13 @@
         "areaData": {
           "AREA_ID": 52002,
           "GAS_95": 8.03,
-          "AIPAO_GAS_98_STATUS": -0.12,
-          "PERIOD_ID": 98,
-          "START_DATE": "2024-11-06 00:12:00",
+          "AIPAO_GAS_98_STATUS": 0,
+          "PERIOD_ID": 99,
+          "START_DATE": "2024-11-20 00:12:00",
           "CHECHAI_0": 7.23,
-          "GAS_95_STATUS": -0.12,
-          "CHECHAI_0_STATUS": -0.12,
-          "GAS_92_STATUS": -0.12,
+          "GAS_95_STATUS": 0,
+          "CHECHAI_0_STATUS": 0,
+          "GAS_92_STATUS": 0,
           "AIPAO_GAS_98": 8.93,
           "GAS_92": 7.6
         }
@@ -179,13 +179,13 @@
         "areaData": {
           "AREA_ID": 52001,
           "GAS_95": 8.06,
-          "AIPAO_GAS_98_STATUS": -0.13,
-          "PERIOD_ID": 98,
-          "START_DATE": "2024-11-06 00:12:00",
+          "AIPAO_GAS_98_STATUS": 0,
+          "PERIOD_ID": 99,
+          "START_DATE": "2024-11-20 00:12:00",
           "CHECHAI_0": 7.26,
-          "GAS_95_STATUS": -0.13,
-          "CHECHAI_0_STATUS": -0.12,
-          "GAS_92_STATUS": -0.12,
+          "GAS_95_STATUS": 0,
+          "CHECHAI_0_STATUS": 0,
+          "GAS_92_STATUS": 0,
           "AIPAO_GAS_98": 8.96,
           "GAS_92": 7.63
         }
@@ -193,7 +193,7 @@
     ],
     "provinceData": null
   },
-  "toDay": "2024年11月20日",
-  "nowTime": "2024-11-19T20:32:22.547+00:00",
-  "createdAt": "2024-11-19T20:32:22.748Z"
+  "toDay": "2024年11月21日",
+  "nowTime": "2024-11-20T20:32:21.856+00:00",
+  "createdAt": "2024-11-20T20:32:22.083Z"
 }

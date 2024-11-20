@@ -74,21 +74,7 @@
           "CNG": "N",
           "AIPAO95": "N"
         },
-        "areaData": {
-          "AREA_ID": 23002,
-          "GAS_95": 7.97,
-          "CHAI_35": 7.95,
-          "GAS_98_STATUS": -0.14,
-          "GAS_98": 9.04,
-          "PERIOD_ID": 98,
-          "START_DATE": "2024-11-06 00:12:00",
-          "CHECHAI_0": 6.94,
-          "GAS_95_STATUS": -0.12,
-          "CHECHAI_0_STATUS": -0.11,
-          "GAS_92_STATUS": -0.12,
-          "CHAI_35_STATUS": -0.14,
-          "GAS_92": 7.46
-        }
+        "areaData": {}
       },
       {
         "areaCheck": {
@@ -127,26 +113,12 @@
           "CNG": "N",
           "AIPAO95": "N"
         },
-        "areaData": {
-          "AREA_ID": 23001,
-          "GAS_95": 8.01,
-          "CHAI_35": 7.97,
-          "GAS_98_STATUS": -0.14,
-          "GAS_98": 9.09,
-          "PERIOD_ID": 98,
-          "START_DATE": "2024-11-06 00:12:00",
-          "CHECHAI_0": 6.96,
-          "GAS_95_STATUS": -0.13,
-          "CHECHAI_0_STATUS": -0.12,
-          "GAS_92_STATUS": -0.12,
-          "CHAI_35_STATUS": -0.14,
-          "GAS_92": 7.5
-        }
+        "areaData": {}
       }
     ],
     "provinceData": null
   },
-  "toDay": "2024年11月20日",
-  "nowTime": "2024-11-19T20:32:33.117+00:00",
-  "createdAt": "2024-11-19T20:32:33.308Z"
+  "toDay": "2024年11月21日",
+  "nowTime": "2024-11-20T20:32:32.035+00:00",
+  "createdAt": "2024-11-20T20:32:32.247Z"
 }
