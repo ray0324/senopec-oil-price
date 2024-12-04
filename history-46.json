@@ -40,6 +40,37 @@
       {
         "AREA_ID": 46000,
         "GAS_95": 9.08,
+        "START_TIME": "2024-12-05 00:00:00",
+        "CNG_STATUS": 0,
+        "LNG": 6.46,
+        "AIPAO_GAS_98_STATUS": 0,
+        "GAS_98": 10.28,
+        "PERIOD_ID": 100,
+        "LNG_STATUS": 0,
+        "CHECHAI_0": 7.18,
+        "CHECHAI_0_STATUS": 0,
+        "STATUS": "Y",
+        "L_CNG": 7.9,
+        "queryDate": "2024-12-05",
+        "END_TIME": "2024-12-18 23:59:59",
+        "YEAR": 2024,
+        "PUCHAI_10": 0,
+        "PROVINCE_ID": 46,
+        "L_CNG_STATUS": 0,
+        "AIPAO_GAS_98": 10.28,
+        "GAS_98_STATUS": 0,
+        "START_DATE": "2024-12-04 00:12:00",
+        "GAS_95_STATUS": 0,
+        "CREATE_DATE": "2024-12-04T10:09:47.000+00:00",
+        "GAS_92_STATUS": 0,
+        "STR_START_DATE": "2024-12-04",
+        "PUCHAI_0": 0,
+        "GAS_92": 8.55,
+        "CNG": 7.13
+      },
+      {
+        "AREA_ID": 46000,
+        "GAS_95": 9.08,
         "START_TIME": "2024-11-21 00:00:00",
         "CNG_STATUS": 0,
         "LNG": 6.46,
@@ -911,7 +942,7 @@
       }
     ]
   },
-  "toDay": "2024年12月04日",
+  "toDay": "2024年12月05日",
   "provinceId": "46",
-  "createdAt": "2024-12-03T20:33:06.804Z"
+  "createdAt": "2024-12-04T20:33:01.384Z"
 }

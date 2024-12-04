@@ -41,8 +41,8 @@
       "AREA_ID": 14000,
       "AIPAO_GAS_98_STATUS": 0,
       "AIPAO_GAS_95_STATUS": 0,
-      "PERIOD_ID": 99,
-      "START_DATE": "2024-11-20 00:12:00",
+      "PERIOD_ID": 100,
+      "START_DATE": "2024-12-04 00:12:00",
       "CHECHAI_0": 7.16,
       "CHECHAI_0_STATUS": 0,
       "GAS_92_STATUS": 0,
@@ -51,7 +51,7 @@
       "AIPAO_GAS_95": 7.98
     }
   },
-  "toDay": "2024年12月04日",
-  "nowTime": "2024-12-03T20:32:47.160+00:00",
-  "createdAt": "2024-12-03T20:32:47.358Z"
+  "toDay": "2024年12月05日",
+  "nowTime": "2024-12-04T20:32:45.786+00:00",
+  "createdAt": "2024-12-04T20:32:45.951Z"
 }
