@@ -74,19 +74,7 @@
           "CNG": "N",
           "AIPAO95": "N"
         },
-        "areaData": {
-          "AREA_ID": 52003,
-          "GAS_95": 8,
-          "AIPAO_GAS_98_STATUS": 0,
-          "PERIOD_ID": 101,
-          "START_DATE": "2024-12-18 00:12:00",
-          "CHECHAI_0": 7.2,
-          "GAS_95_STATUS": 0,
-          "CHECHAI_0_STATUS": 0,
-          "GAS_92_STATUS": 0,
-          "AIPAO_GAS_98": 8.9,
-          "GAS_92": 7.57
-        }
+        "areaData": {}
       },
       {
         "areaCheck": {
@@ -125,19 +113,7 @@
           "CNG": "N",
           "AIPAO95": "N"
         },
-        "areaData": {
-          "AREA_ID": 52002,
-          "GAS_95": 8.03,
-          "AIPAO_GAS_98_STATUS": 0,
-          "PERIOD_ID": 101,
-          "START_DATE": "2024-12-18 00:12:00",
-          "CHECHAI_0": 7.23,
-          "GAS_95_STATUS": 0,
-          "CHECHAI_0_STATUS": 0,
-          "GAS_92_STATUS": 0,
-          "AIPAO_GAS_98": 8.93,
-          "GAS_92": 7.6
-        }
+        "areaData": {}
       },
       {
         "areaCheck": {
@@ -176,24 +152,12 @@
           "CNG": "N",
           "AIPAO95": "N"
         },
-        "areaData": {
-          "AREA_ID": 52001,
-          "GAS_95": 8.06,
-          "AIPAO_GAS_98_STATUS": 0,
-          "PERIOD_ID": 101,
-          "START_DATE": "2024-12-18 00:12:00",
-          "CHECHAI_0": 7.26,
-          "GAS_95_STATUS": 0,
-          "CHECHAI_0_STATUS": 0,
-          "GAS_92_STATUS": 0,
-          "AIPAO_GAS_98": 8.96,
-          "GAS_92": 7.63
-        }
+        "areaData": {}
       }
     ],
     "provinceData": null
   },
-  "toDay": "2025年01月01日",
-  "nowTime": "2024-12-31T20:30:55.326+00:00",
-  "createdAt": "2024-12-31T20:30:55.552Z"
+  "toDay": "2025年01月02日",
+  "nowTime": "2025-01-01T20:31:02.975+00:00",
+  "createdAt": "2025-01-01T20:31:03.201Z"
 }
