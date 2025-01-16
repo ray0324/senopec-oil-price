@@ -39,21 +39,21 @@
     "area": [],
     "provinceData": {
       "AREA_ID": 44000,
-      "GAS_95": 8.14,
-      "GAS_98_STATUS": 0.06,
-      "AIPAO_GAS_98_STATUS": 0.06,
-      "GAS_98": 10.14,
-      "PERIOD_ID": 104,
-      "START_DATE": "2025-01-02 00:12:00",
-      "CHECHAI_0": 7.16,
-      "GAS_95_STATUS": 0.06,
-      "CHECHAI_0_STATUS": 0.06,
-      "GAS_92_STATUS": 0.06,
-      "AIPAO_GAS_98": 10.14,
-      "GAS_92": 7.52
+      "GAS_95": 8.44,
+      "GAS_98_STATUS": 0.3,
+      "AIPAO_GAS_98_STATUS": 0.3,
+      "GAS_98": 10.44,
+      "PERIOD_ID": 105,
+      "START_DATE": "2025-01-16 00:12:00",
+      "CHECHAI_0": 7.44,
+      "GAS_95_STATUS": 0.3,
+      "CHECHAI_0_STATUS": 0.28,
+      "GAS_92_STATUS": 0.27,
+      "AIPAO_GAS_98": 10.44,
+      "GAS_92": 7.79
     }
   },
-  "toDay": "2025年01月16日",
-  "nowTime": "2025-01-15T20:30:35.138+00:00",
-  "createdAt": "2025-01-15T20:30:35.304Z"
+  "toDay": "2025年01月17日",
+  "nowTime": "2025-01-16T20:30:54.479+00:00",
+  "createdAt": "2025-01-16T20:30:54.682Z"
 }
