@@ -39,6 +39,44 @@
     "provinceData": [
       {
         "AREA_ID": 46000,
+        "GAS_95": 9.43,
+        "START_TIME": "2025-01-17 00:00:00",
+        "CNG_STATUS": 0.27,
+        "LNG": 6.77,
+        "AIPAO_GAS_98_STATUS": 0.33,
+        "GAS_98": 10.68,
+        "CHECHAI_0_COLOR": "red",
+        "PERIOD_ID": 105,
+        "LNG_STATUS": 0.25,
+        "CHECHAI_0": 7.52,
+        "CHECHAI_0_STATUS": 0.28,
+        "CNG_COLOR": "red",
+        "STATUS": "Y",
+        "L_CNG": 7.9,
+        "queryDate": "2025-01-17",
+        "END_TIME": "2025-02-06 23:59:59",
+        "YEAR": 2025,
+        "GAS_98_COLOR": "red",
+        "PUCHAI_10": 0,
+        "PROVINCE_ID": 46,
+        "L_CNG_STATUS": 0,
+        "AIPAO_GAS_98": 10.68,
+        "AIPAO_GAS_98_COLOR": "red",
+        "GAS_98_STATUS": 0.33,
+        "START_DATE": "2025-01-16 00:12:00",
+        "GAS_95_STATUS": 0.29,
+        "GAS_95_COLOR": "red",
+        "LNG_COLOR": "red",
+        "CREATE_DATE": "2025-01-17T06:21:27.000+00:00",
+        "GAS_92_STATUS": 0.27,
+        "GAS_92_COLOR": "red",
+        "STR_START_DATE": "2025-01-16",
+        "PUCHAI_0": 0,
+        "GAS_92": 8.88,
+        "CNG": 7.45
+      },
+      {
+        "AREA_ID": 46000,
         "GAS_95": 9.14,
         "START_TIME": "2025-01-03 00:00:00",
         "CNG_STATUS": 0.05,
@@ -905,7 +943,7 @@
       }
     ]
   },
-  "toDay": "2025年01月17日",
+  "toDay": "2025年01月18日",
   "provinceId": "46",
-  "createdAt": "2025-01-16T20:31:00.964Z"
+  "createdAt": "2025-01-17T20:30:43.892Z"
 }
