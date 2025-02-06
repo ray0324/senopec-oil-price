@@ -77,13 +77,13 @@
         "areaData": {
           "AREA_ID": 52003,
           "GAS_95": 8.34,
-          "AIPAO_GAS_98_STATUS": 0.28,
-          "PERIOD_ID": 105,
-          "START_DATE": "2025-01-16 00:12:00",
+          "AIPAO_GAS_98_STATUS": 0,
+          "PERIOD_ID": 127,
+          "START_DATE": "2025-02-06 00:12:00",
           "CHECHAI_0": 7.53,
-          "GAS_95_STATUS": 0.28,
-          "CHECHAI_0_STATUS": 0.27,
-          "GAS_92_STATUS": 0.28,
+          "GAS_95_STATUS": 0,
+          "CHECHAI_0_STATUS": 0,
+          "GAS_92_STATUS": 0,
           "AIPAO_GAS_98": 9.24,
           "GAS_92": 7.9
         }
@@ -128,13 +128,13 @@
         "areaData": {
           "AREA_ID": 52002,
           "GAS_95": 8.38,
-          "AIPAO_GAS_98_STATUS": 0.29,
-          "PERIOD_ID": 105,
-          "START_DATE": "2025-01-16 00:12:00",
+          "AIPAO_GAS_98_STATUS": 0,
+          "PERIOD_ID": 127,
+          "START_DATE": "2025-02-06 00:12:00",
           "CHECHAI_0": 7.56,
-          "GAS_95_STATUS": 0.29,
-          "CHECHAI_0_STATUS": 0.27,
-          "GAS_92_STATUS": 0.27,
+          "GAS_95_STATUS": 0,
+          "CHECHAI_0_STATUS": 0,
+          "GAS_92_STATUS": 0,
           "AIPAO_GAS_98": 9.28,
           "GAS_92": 7.93
         }
@@ -179,13 +179,13 @@
         "areaData": {
           "AREA_ID": 52001,
           "GAS_95": 8.41,
-          "AIPAO_GAS_98_STATUS": 0.29,
-          "PERIOD_ID": 105,
-          "START_DATE": "2025-01-16 00:12:00",
+          "AIPAO_GAS_98_STATUS": 0,
+          "PERIOD_ID": 127,
+          "START_DATE": "2025-02-06 00:12:00",
           "CHECHAI_0": 7.59,
-          "GAS_95_STATUS": 0.29,
-          "CHECHAI_0_STATUS": 0.27,
-          "GAS_92_STATUS": 0.27,
+          "GAS_95_STATUS": 0,
+          "CHECHAI_0_STATUS": 0,
+          "GAS_92_STATUS": 0,
           "AIPAO_GAS_98": 9.31,
           "GAS_92": 7.96
         }
@@ -193,7 +193,7 @@
     ],
     "provinceData": null
   },
-  "toDay": "2025年02月06日",
-  "nowTime": "2025-02-05T20:31:49.786+00:00",
-  "createdAt": "2025-02-05T20:31:50.048Z"
+  "toDay": "2025年02月07日",
+  "nowTime": "2025-02-06T20:31:15.439+00:00",
+  "createdAt": "2025-02-06T20:31:15.703Z"
 }
