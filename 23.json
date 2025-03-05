@@ -76,18 +76,18 @@
         },
         "areaData": {
           "AREA_ID": 23002,
-          "GAS_95": 8.18,
-          "CHAI_35": 8.18,
-          "GAS_98_STATUS": -0.17,
-          "GAS_98": 9.27,
-          "PERIOD_ID": 106,
-          "START_DATE": "2025-02-19 00:12:00",
-          "CHECHAI_0": 7.14,
-          "GAS_95_STATUS": -0.14,
-          "CHECHAI_0_STATUS": -0.13,
-          "GAS_92_STATUS": -0.14,
-          "CHAI_35_STATUS": -0.15,
-          "GAS_92": 7.65
+          "GAS_95": 8.06,
+          "CHAI_35": 8.05,
+          "GAS_98_STATUS": -0.13,
+          "GAS_98": 9.14,
+          "PERIOD_ID": 107,
+          "START_DATE": "2025-03-05 00:12:00",
+          "CHECHAI_0": 7.03,
+          "GAS_95_STATUS": -0.12,
+          "CHECHAI_0_STATUS": -0.11,
+          "GAS_92_STATUS": -0.1,
+          "CHAI_35_STATUS": -0.13,
+          "GAS_92": 7.55
         }
       },
       {
@@ -129,24 +129,24 @@
         },
         "areaData": {
           "AREA_ID": 23001,
-          "GAS_95": 8.22,
-          "CHAI_35": 8.2,
-          "GAS_98_STATUS": -0.17,
-          "GAS_98": 9.32,
-          "PERIOD_ID": 106,
-          "START_DATE": "2025-02-19 00:12:00",
-          "CHECHAI_0": 7.16,
-          "GAS_95_STATUS": -0.15,
-          "CHECHAI_0_STATUS": -0.14,
-          "GAS_92_STATUS": -0.13,
-          "CHAI_35_STATUS": -0.16,
-          "GAS_92": 7.7
+          "GAS_95": 8.1,
+          "CHAI_35": 8.07,
+          "GAS_98_STATUS": -0.13,
+          "GAS_98": 9.19,
+          "PERIOD_ID": 107,
+          "START_DATE": "2025-03-05 00:12:00",
+          "CHECHAI_0": 7.05,
+          "GAS_95_STATUS": -0.12,
+          "CHECHAI_0_STATUS": -0.11,
+          "GAS_92_STATUS": -0.11,
+          "CHAI_35_STATUS": -0.13,
+          "GAS_92": 7.59
         }
       }
     ],
     "provinceData": null
   },
-  "toDay": "2025年03月05日",
-  "nowTime": "2025-03-04T20:32:04.036+00:00",
-  "createdAt": "2025-03-04T20:32:04.275Z"
+  "toDay": "2025年03月06日",
+  "nowTime": "2025-03-05T20:32:39.966+00:00",
+  "createdAt": "2025-03-05T20:32:40.196Z"
 }
