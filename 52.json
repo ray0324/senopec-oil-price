@@ -76,16 +76,16 @@
         },
         "areaData": {
           "AREA_ID": 52003,
-          "GAS_95": 8.09,
-          "AIPAO_GAS_98_STATUS": -0.11,
-          "PERIOD_ID": 107,
-          "START_DATE": "2025-03-05 00:12:00",
-          "CHECHAI_0": 7.29,
-          "GAS_95_STATUS": -0.11,
-          "CHECHAI_0_STATUS": -0.11,
-          "GAS_92_STATUS": -0.11,
-          "AIPAO_GAS_98": 8.99,
-          "GAS_92": 7.65
+          "GAS_95": 7.85,
+          "AIPAO_GAS_98_STATUS": -0.24,
+          "PERIOD_ID": 108,
+          "START_DATE": "2025-03-19 00:12:00",
+          "CHECHAI_0": 7.05,
+          "GAS_95_STATUS": -0.24,
+          "CHECHAI_0_STATUS": -0.24,
+          "GAS_92_STATUS": -0.22,
+          "AIPAO_GAS_98": 8.75,
+          "GAS_92": 7.43
         }
       },
       {
@@ -127,16 +127,16 @@
         },
         "areaData": {
           "AREA_ID": 52002,
-          "GAS_95": 8.12,
-          "AIPAO_GAS_98_STATUS": -0.11,
-          "PERIOD_ID": 107,
-          "START_DATE": "2025-03-05 00:12:00",
-          "CHECHAI_0": 7.32,
-          "GAS_95_STATUS": -0.11,
-          "CHECHAI_0_STATUS": -0.11,
-          "GAS_92_STATUS": -0.11,
-          "AIPAO_GAS_98": 9.02,
-          "GAS_92": 7.68
+          "GAS_95": 7.88,
+          "AIPAO_GAS_98_STATUS": -0.24,
+          "PERIOD_ID": 108,
+          "START_DATE": "2025-03-19 00:12:00",
+          "CHECHAI_0": 7.08,
+          "GAS_95_STATUS": -0.24,
+          "CHECHAI_0_STATUS": -0.24,
+          "GAS_92_STATUS": -0.22,
+          "AIPAO_GAS_98": 8.78,
+          "GAS_92": 7.46
         }
       },
       {
@@ -178,22 +178,22 @@
         },
         "areaData": {
           "AREA_ID": 52001,
-          "GAS_95": 8.15,
-          "AIPAO_GAS_98_STATUS": -0.12,
-          "PERIOD_ID": 107,
-          "START_DATE": "2025-03-05 00:12:00",
-          "CHECHAI_0": 7.35,
-          "GAS_95_STATUS": -0.12,
-          "CHECHAI_0_STATUS": -0.11,
-          "GAS_92_STATUS": -0.1,
-          "AIPAO_GAS_98": 9.05,
-          "GAS_92": 7.72
+          "GAS_95": 7.91,
+          "AIPAO_GAS_98_STATUS": -0.24,
+          "PERIOD_ID": 108,
+          "START_DATE": "2025-03-19 00:12:00",
+          "CHECHAI_0": 7.11,
+          "GAS_95_STATUS": -0.24,
+          "CHECHAI_0_STATUS": -0.24,
+          "GAS_92_STATUS": -0.23,
+          "AIPAO_GAS_98": 8.81,
+          "GAS_92": 7.49
         }
       }
     ],
     "provinceData": null
   },
-  "toDay": "2025年03月19日",
-  "nowTime": "2025-03-18T20:32:16.051+00:00",
-  "createdAt": "2025-03-18T20:32:16.302Z"
+  "toDay": "2025年03月20日",
+  "nowTime": "2025-03-19T20:32:46.089+00:00",
+  "createdAt": "2025-03-19T20:32:46.350Z"
 }
