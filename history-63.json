@@ -75,6 +75,33 @@
         "areaData": [
           {
             "AREA_ID": 63003,
+            "GAS_95": 7.56,
+            "START_TIME": "2025-04-18 00:00:00",
+            "GAS_98": 8.24,
+            "CHECHAI_0_COLOR": "blue",
+            "PERIOD_ID": 110,
+            "CHECHAI_0": 6.67,
+            "CHECHAI_0_STATUS": -0.39,
+            "STATUS": "Y",
+            "queryDate": "2025-04-18",
+            "END_TIME": "2025-04-30 23:59:59",
+            "YEAR": 2025,
+            "GAS_98_COLOR": "blue",
+            "PUCHAI_10": 0,
+            "PROVINCE_ID": 63,
+            "GAS_98_STATUS": -0.45,
+            "START_DATE": "2025-04-17 00:12:00",
+            "GAS_95_STATUS": -0.42,
+            "GAS_95_COLOR": "blue",
+            "CREATE_DATE": "2025-04-17T10:44:54.000+00:00",
+            "GAS_92_STATUS": -0.39,
+            "GAS_92_COLOR": "blue",
+            "STR_START_DATE": "2025-04-17",
+            "PUCHAI_0": 0,
+            "GAS_92": 7.05
+          },
+          {
+            "AREA_ID": 63003,
             "GAS_95": 7.98,
             "START_TIME": "2025-04-03 00:00:00",
             "GAS_98": 8.69,
@@ -724,6 +751,33 @@
         "areaData": [
           {
             "AREA_ID": 63002,
+            "GAS_95": 7.66,
+            "START_TIME": "2025-04-18 00:00:00",
+            "GAS_98": 8.34,
+            "CHECHAI_0_COLOR": "blue",
+            "PERIOD_ID": 110,
+            "CHECHAI_0": 6.76,
+            "CHECHAI_0_STATUS": -0.4,
+            "STATUS": "Y",
+            "queryDate": "2025-04-18",
+            "END_TIME": "2025-04-30 23:59:59",
+            "YEAR": 2025,
+            "GAS_98_COLOR": "blue",
+            "PUCHAI_10": 0,
+            "PROVINCE_ID": 63,
+            "GAS_98_STATUS": -0.45,
+            "START_DATE": "2025-04-17 00:12:00",
+            "GAS_95_STATUS": -0.41,
+            "GAS_95_COLOR": "blue",
+            "CREATE_DATE": "2025-04-17T10:44:54.000+00:00",
+            "GAS_92_STATUS": -0.39,
+            "GAS_92_COLOR": "blue",
+            "STR_START_DATE": "2025-04-17",
+            "PUCHAI_0": 0,
+            "GAS_92": 7.14
+          },
+          {
+            "AREA_ID": 63002,
             "GAS_95": 8.07,
             "START_TIME": "2025-04-03 00:00:00",
             "GAS_98": 8.79,
@@ -1370,6 +1424,33 @@
           "AIPAO95": "N"
         },
         "areaData": [
+          {
+            "AREA_ID": 63001,
+            "GAS_95": 7.77,
+            "START_TIME": "2025-04-18 00:00:00",
+            "GAS_98": 8.46,
+            "CHECHAI_0_COLOR": "blue",
+            "PERIOD_ID": 110,
+            "CHECHAI_0": 6.87,
+            "CHECHAI_0_STATUS": -0.4,
+            "STATUS": "Y",
+            "queryDate": "2025-04-18",
+            "END_TIME": "2025-04-30 23:59:59",
+            "YEAR": 2025,
+            "GAS_98_COLOR": "blue",
+            "PUCHAI_10": 0,
+            "PROVINCE_ID": 63,
+            "GAS_98_STATUS": -0.45,
+            "START_DATE": "2025-04-17 00:12:00",
+            "GAS_95_STATUS": -0.41,
+            "GAS_95_COLOR": "blue",
+            "CREATE_DATE": "2025-04-17T10:44:54.000+00:00",
+            "GAS_92_STATUS": -0.38,
+            "GAS_92_COLOR": "blue",
+            "STR_START_DATE": "2025-04-17",
+            "PUCHAI_0": 0,
+            "GAS_92": 7.25
+          },
           {
             "AREA_ID": 63001,
             "GAS_95": 8.18,
@@ -2200,7 +2281,7 @@
       }
     ]
   },
-  "toDay": "2025年04月17日",
+  "toDay": "2025年04月18日",
   "provinceId": "63",
-  "createdAt": "2025-04-16T20:33:26.400Z"
+  "createdAt": "2025-04-17T20:33:05.224Z"
 }
