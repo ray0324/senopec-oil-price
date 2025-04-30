@@ -40,6 +40,37 @@
       {
         "AREA_ID": 46000,
         "GAS_95": 8.72,
+        "START_TIME": "2025-05-01 00:00:00",
+        "CNG_STATUS": 0,
+        "LNG": 6.14,
+        "AIPAO_GAS_98_STATUS": 0,
+        "GAS_98": 9.86,
+        "PERIOD_ID": 111,
+        "LNG_STATUS": 0,
+        "CHECHAI_0": 6.82,
+        "CHECHAI_0_STATUS": 0,
+        "STATUS": "Y",
+        "L_CNG": 7.9,
+        "queryDate": "2025-05-01",
+        "END_TIME": "2025-05-19 23:59:59",
+        "YEAR": 2025,
+        "PUCHAI_10": 0,
+        "PROVINCE_ID": 46,
+        "L_CNG_STATUS": 0,
+        "AIPAO_GAS_98": 9.86,
+        "GAS_98_STATUS": 0,
+        "START_DATE": "2025-04-30 00:12:00",
+        "GAS_95_STATUS": 0,
+        "CREATE_DATE": "2025-04-30T03:26:07.000+00:00",
+        "GAS_92_STATUS": 0,
+        "STR_START_DATE": "2025-04-30",
+        "PUCHAI_0": 0,
+        "GAS_92": 8.21,
+        "CNG": 6.81
+      },
+      {
+        "AREA_ID": 46000,
+        "GAS_95": 8.72,
         "START_TIME": "2025-04-18 00:00:00",
         "CNG_STATUS": -0.36,
         "LNG": 6.14,
@@ -943,7 +974,7 @@
       }
     ]
   },
-  "toDay": "2025年04月30日",
+  "toDay": "2025年05月01日",
   "provinceId": "46",
-  "createdAt": "2025-04-29T20:33:16.865Z"
+  "createdAt": "2025-04-30T20:33:06.807Z"
 }

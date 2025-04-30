@@ -40,16 +40,16 @@
     "provinceData": {
       "AREA_ID": 65000,
       "GAS_95": 7.38,
-      "PERIOD_ID": 110,
-      "START_DATE": "2025-04-17 00:12:00",
+      "PERIOD_ID": 111,
+      "START_DATE": "2025-04-30 00:12:00",
       "CHECHAI_0": 6.52,
-      "GAS_95_STATUS": -0.41,
-      "CHECHAI_0_STATUS": -0.4,
-      "GAS_92_STATUS": -0.38,
+      "GAS_95_STATUS": 0,
+      "CHECHAI_0_STATUS": 0,
+      "GAS_92_STATUS": 0,
       "GAS_92": 6.9
     }
   },
-  "toDay": "2025年04月30日",
-  "nowTime": "2025-04-29T20:33:19.380+00:00",
-  "createdAt": "2025-04-29T20:33:19.558Z"
+  "toDay": "2025年05月01日",
+  "nowTime": "2025-04-30T20:33:09.712+00:00",
+  "createdAt": "2025-04-30T20:33:09.916Z"
 }
