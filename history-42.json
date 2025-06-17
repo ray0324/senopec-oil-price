@@ -39,6 +39,39 @@
     "provinceData": [
       {
         "AREA_ID": 42000,
+        "GAS_95": 7.69,
+        "START_TIME": "2025-06-18 00:00:00",
+        "AIPAO_GAS_98_STATUS": 0.24,
+        "GAS_98": 9.52,
+        "CHECHAI_0_COLOR": "red",
+        "PERIOD_ID": 114,
+        "CHECHAI_0": 6.81,
+        "CHAI_ZYK_COLOR": "red",
+        "CHECHAI_0_STATUS": 0.22,
+        "STATUS": "Y",
+        "queryDate": "2025-06-18",
+        "END_TIME": "2025-07-01 23:59:59",
+        "YEAR": 2025,
+        "GAS_98_COLOR": "red",
+        "PUCHAI_10": 0,
+        "PROVINCE_ID": 42,
+        "AIPAO_GAS_98": 9.52,
+        "AIPAO_GAS_98_COLOR": "red",
+        "GAS_98_STATUS": 0.24,
+        "START_DATE": "2025-06-17 00:12:00",
+        "CHAI_ZYK_STATUS": 0.22,
+        "GAS_95_STATUS": 0.22,
+        "GAS_95_COLOR": "red",
+        "CHAI_ZYK": 6.49,
+        "CREATE_DATE": "2025-06-17T07:15:47.000+00:00",
+        "GAS_92_STATUS": 0.21,
+        "GAS_92_COLOR": "red",
+        "STR_START_DATE": "2025-06-17",
+        "PUCHAI_0": 0,
+        "GAS_92": 7.18
+      },
+      {
+        "AREA_ID": 42000,
         "GAS_95": 7.47,
         "START_TIME": "2025-06-04 00:00:00",
         "AIPAO_GAS_98_STATUS": 0.1,
@@ -770,7 +803,7 @@
       }
     ]
   },
-  "toDay": "2025年06月17日",
+  "toDay": "2025年06月18日",
   "provinceId": "42",
-  "createdAt": "2025-06-16T20:33:49.392Z"
+  "createdAt": "2025-06-17T20:33:46.496Z"
 }
