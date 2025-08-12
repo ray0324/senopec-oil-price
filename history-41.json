@@ -41,6 +41,31 @@
         "E95": 7.76,
         "AREA_ID": 41000,
         "E92_STATUS": 0,
+        "START_TIME": "2025-08-13 00:00:00",
+        "PERIOD_ID": 118,
+        "E95_STATUS": 0,
+        "START_DATE": "2025-08-12 00:12:00",
+        "CHECHAI_0": 6.89,
+        "CHECHAI_10": 7.31,
+        "AIPAO_GAS_E98": 8.71,
+        "CHECHAI_0_STATUS": 0,
+        "STATUS": "Y",
+        "CREATE_DATE": "2025-08-12T08:05:14.000+00:00",
+        "AIPAO_GAS_E98_STATUS": 0,
+        "queryDate": "2025-08-13",
+        "END_TIME": "2025-08-26 23:59:59",
+        "YEAR": 2025,
+        "STR_START_DATE": "2025-08-12",
+        "PUCHAI_10": 0,
+        "PROVINCE_ID": 41,
+        "PUCHAI_0": 0,
+        "CHECHAI_10_STATUS": 0,
+        "E92": 7.26
+      },
+      {
+        "E95": 7.76,
+        "AREA_ID": 41000,
+        "E92_STATUS": 0,
         "START_TIME": "2025-07-30 00:00:00",
         "PERIOD_ID": 117,
         "E95_STATUS": 0,
@@ -709,7 +734,7 @@
       }
     ]
   },
-  "toDay": "2025年08月12日",
+  "toDay": "2025年08月13日",
   "provinceId": "41",
-  "createdAt": "2025-08-11T20:33:14.425Z"
+  "createdAt": "2025-08-12T20:34:15.891Z"
 }

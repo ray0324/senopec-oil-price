@@ -77,6 +77,31 @@
           {
             "AREA_ID": 51003,
             "GAS_95": 7.86,
+            "START_TIME": "2025-08-13 00:00:00",
+            "AIPAO_GAS_98_STATUS": 0,
+            "PERIOD_ID": 118,
+            "START_DATE": "2025-08-12 00:12:00",
+            "CHECHAI_0": 6.96,
+            "GAS_95_STATUS": 0,
+            "CHECHAI_10": 7.38,
+            "CHECHAI_0_STATUS": 0,
+            "STATUS": "Y",
+            "CREATE_DATE": "2025-08-12T07:00:30.000+00:00",
+            "GAS_92_STATUS": 0,
+            "queryDate": "2025-08-13",
+            "END_TIME": "2025-08-26 23:59:59",
+            "YEAR": 2025,
+            "STR_START_DATE": "2025-08-12",
+            "PUCHAI_10": 0,
+            "PROVINCE_ID": 51,
+            "PUCHAI_0": 0,
+            "CHECHAI_10_STATUS": 0,
+            "AIPAO_GAS_98": 8.9,
+            "GAS_92": 7.36
+          },
+          {
+            "AREA_ID": 51003,
+            "GAS_95": 7.86,
             "START_TIME": "2025-07-30 00:00:00",
             "AIPAO_GAS_98_STATUS": 0,
             "PERIOD_ID": 117,
@@ -826,6 +851,29 @@
           {
             "AREA_ID": 51002,
             "GAS_95": 7.94,
+            "START_TIME": "2025-08-13 00:00:00",
+            "AIPAO_GAS_98_STATUS": 0,
+            "PERIOD_ID": 118,
+            "START_DATE": "2025-08-12 00:12:00",
+            "CHECHAI_0": 7.05,
+            "GAS_95_STATUS": 0,
+            "CHECHAI_0_STATUS": 0,
+            "STATUS": "Y",
+            "CREATE_DATE": "2025-08-12T07:00:30.000+00:00",
+            "GAS_92_STATUS": 0,
+            "queryDate": "2025-08-13",
+            "END_TIME": "2025-08-26 23:59:59",
+            "YEAR": 2025,
+            "STR_START_DATE": "2025-08-12",
+            "PUCHAI_10": 0,
+            "PROVINCE_ID": 51,
+            "PUCHAI_0": 0,
+            "AIPAO_GAS_98": 8.98,
+            "GAS_92": 7.43
+          },
+          {
+            "AREA_ID": 51002,
+            "GAS_95": 7.94,
             "START_TIME": "2025-07-30 00:00:00",
             "AIPAO_GAS_98_STATUS": 0,
             "PERIOD_ID": 117,
@@ -1475,7 +1523,7 @@
       }
     ]
   },
-  "toDay": "2025年08月12日",
+  "toDay": "2025年08月13日",
   "provinceId": "51",
-  "createdAt": "2025-08-11T20:33:32.260Z"
+  "createdAt": "2025-08-12T20:34:34.090Z"
 }
