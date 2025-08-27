@@ -91,7 +91,7 @@
             "START_DATE": "2025-08-26 00:12:00",
             "GAS_95_STATUS": -0.16,
             "GAS_95_COLOR": "blue",
-            "CREATE_DATE": "2025-08-26T10:45:34.000+00:00",
+            "CREATE_DATE": "2025-08-27T09:21:00.000+00:00",
             "GAS_92_STATUS": -0.15,
             "GAS_92_COLOR": "blue",
             "CHAI_20_COLOR": "blue",
@@ -790,7 +790,7 @@
             "START_DATE": "2025-08-26 00:12:00",
             "GAS_95_STATUS": -0.15,
             "GAS_95_COLOR": "blue",
-            "CREATE_DATE": "2025-08-26T10:45:34.000+00:00",
+            "CREATE_DATE": "2025-08-27T09:21:00.000+00:00",
             "GAS_92_STATUS": -0.15,
             "GAS_92_COLOR": "blue",
             "CHAI_20_COLOR": "blue",
@@ -1437,8 +1437,8 @@
         "areaCheck": {
           "AREA_ID": 54001,
           "GAS_95": "Y",
-          "CHAI_35": "N",
-          "AIPAOE98": "Y",
+          "CHAI_35": "Y",
+          "AIPAOE98": "N",
           "CHAI_10": "N",
           "LNG": "N",
           "AIPAOE95": "N",
@@ -1474,6 +1474,7 @@
           {
             "AREA_ID": 54001,
             "GAS_95": 8.46,
+            "CHAI_35": 8.4,
             "START_TIME": "2025-08-27 00:00:00",
             "CHECHAI_0_COLOR": "blue",
             "PERIOD_ID": 119,
@@ -1490,7 +1491,7 @@
             "START_DATE": "2025-08-26 00:12:00",
             "GAS_95_STATUS": -0.15,
             "GAS_95_COLOR": "blue",
-            "CREATE_DATE": "2025-08-26T10:45:34.000+00:00",
+            "CREATE_DATE": "2025-08-27T09:21:00.000+00:00",
             "GAS_92_STATUS": -0.14,
             "GAS_92_COLOR": "blue",
             "CHAI_20_COLOR": "blue",
@@ -2135,7 +2136,7 @@
       }
     ]
   },
-  "toDay": "2025年08月27日",
+  "toDay": "2025年08月28日",
   "provinceId": "54",
-  "createdAt": "2025-08-26T20:33:21.663Z"
+  "createdAt": "2025-08-27T20:33:15.535Z"
 }
